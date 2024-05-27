@@ -1,0 +1,244 @@
+{
+  "corpus_name": "aramaic",
+  "citation": "Modern Western Aramaic corpus (2024)",
+  "input_format": "json",
+  "debug": false,
+  "media": true,
+  "video": false,
+  "media_length": 60,
+  "max_context_expand": 10,
+  "max_distance_filter": 200000,
+  "max_docs_retrieve": 9999,
+  "max_words_in_sentence": 40,
+  "query_timeout": 60,
+  "year_sort_enabled": true,
+  "viewable_meta": [
+    "filename",
+    "title",
+    "village",
+    "narrative_subject",
+    "speaker",
+    "gender",
+    "age",
+    "profession"
+  ],
+  "sentence_meta": [],
+  "search_meta": {
+    "columns": [
+      [
+        {"type": "input_text", "name": "title", "placeholder": "Text title"},
+        {"type": "input_text", "name": "speaker", "placeholder": "Speaker's name"},
+        {"type": "separator"},
+        {"type": "input_text", "name": "village", "placeholder": "Village"},
+        {"type": "input_text", "name": "narrative_subject", "placeholder": "Narrative subject"},
+        {"type": "input_text", "name": "profession", "placeholder": "Speaker's profession"},
+        {"type": "input_text", "name": "age", "placeholder": "Speaker's age"}
+      ],
+      [
+        {"type": "input_text", "name": "gender", "placeholder": "Speaker's gender"},
+        {"type": "option", "name": "gender", "value": "M", "text": "M"},
+        {"type": "option", "name": "gender", "value": "F", "text": "F"}
+	  ]
+    ],
+    "stat_options": [
+      "title",
+      "village",
+      "linguists",
+      "narrative_subject",
+      "age",
+      "profession",
+      "speaker",
+      "gender"
+    ]
+  },
+
+  "generate_dictionary": true,
+  "fulltext_view_enabled": true,
+  "use_nonpersistent_fulltext_id": true,
+  "languages": ["aramaic", "german"],
+  "language_codes": {"aramaic": "aramaic"},
+  "keyboards": {"aramaic": "aramaic", "german": "german"},
+  "input_methods": ["normal"],
+  "interface_languages": [
+    "en",
+    "ru"
+  ],
+  "all_language_search_enabled": true,
+  "gloss_search_enabled": false,
+  "ambiguous_analyses": true,
+  "elastic_url": "http://127.0.0.1:9200",
+  "lang_props":
+  {
+    "aramaic":
+    {          
+      "gr_fields_order": ["pos", "Stamm", "tense", "mood", "adj_det", "pron_type", "PROPN_type", "num_type", 
+      "person", "number", "gender", "Degree", "adv_type", "object", "POSS", "prep_form", "part_type", "HD", "DOM"],
+      "gramm_selection": {
+        "columns": [
+          [
+            {"type": "header", "value": "Part of speech"},
+            {"type": "gramm", "value": "NOUN", "category": "pos", "tooltip": "Noun"},
+            {"type": "gramm", "value": "VERB", "category": "pos", "tooltip": "Verb"},
+            {"type": "gramm", "value": "PRON", "category": "pos", "tooltip": "Pronoun"},
+            {"type": "gramm", "value": "DET", "category": "pos", "tooltip": "Determiner"},
+            {"type": "gramm", "value": "ADJ", "category": "pos", "tooltip": "Adjective"},
+            {"type": "gramm", "value": "SCONJ", "category": "pos", "tooltip": "Subordinating conjunction"},
+            {"type": "gramm", "value": "CCONJ", "category": "pos", "tooltip": "Coordinating conjunction"},
+            {"type": "gramm", "value": "PREP", "category": "pos", "tooltip": "Preposition"},
+            {"type": "gramm", "value": "ADV", "category": "pos", "tooltip": "Adverb"},
+            {"type": "gramm", "value": "PROPN", "category": "pos", "tooltip": "Proper noun"},
+            {"type": "gramm", "value": "PART", "category": "pos", "tooltip": "Particle"},
+            {"type": "gramm", "value": "AUX", "category": "pos", "tooltip": "Auxiliary verb/Pseudoverb"},
+            {"type": "gramm", "value": "NUM", "category": "pos", "tooltip": "Pronoun"},
+            {"type": "gramm", "value": "NEG", "category": "pos", "tooltip": "Negation"},
+            {"type": "gramm", "value": "INTJ", "category": "pos", "tooltip": "Interjection"}
+          ],
+          [
+            {"type": "header", "value": "Number"},
+            {"type": "gramm", "value": "Sg", "category": "number", "tooltip": "Singular"},
+            {"type": "gramm", "value": "Pl", "category": "number", "tooltip": "Plural"},
+            {"type": "gramm", "value": "ZPl", "category": "number", "tooltip": "Zählplural"},
+            {"type": "header", "value": "Person"},
+            {"type": "gramm", "value": "1", "category": "person", "tooltip": "First person"},
+            {"type": "gramm", "value": "2", "category": "person", "tooltip": "Second person"},
+            {"type": "gramm", "value": "3", "category": "person", "tooltip": "Third person"},
+            {"type": "header", "value": "Gender"},
+            {"type": "gramm", "value": "m", "category": "gender", "tooltip": "Masculine"},
+            {"type": "gramm", "value": "f", "category": "gender", "tooltip": "Feminine"},
+            {"type": "gramm", "value": "c", "category": "gender", "tooltip": "Common"}
+          ],
+          [
+            {"type": "header", "value": "Type of pronoun"},
+            {"type": "gramm", "value": "Pers", "category": "pron_type", "tooltip": "Personal pronoun"},
+            {"type": "gramm", "value": "Inter", "category": "pron_type", "tooltip": "Interrogative pronoun"},
+            {"type": "gramm", "value": "Rel", "category": "pron_type", "tooltip": "Relative pronoun"},
+            {"type": "gramm", "value": "Poss", "category": "pron_type", "tooltip": "Possessive pronoun"},
+            {"type": "gramm", "value": "Tot", "category": "pron_type", "tooltip": "Total pronoun"},
+            {"type": "gramm", "value": "Ind", "category": "pron_type", "tooltip": "Indefinite pronoun"},
+            {"type": "gramm", "value": "Refl", "category": "pron_type", "tooltip": "Reflexive pronoun"},
+            {"type": "header", "value": "Type of adverb"},
+            {"type": "gramm", "value": "Loc", "category": "adv_type", "tooltip": "Locative adverb"},
+            {"type": "gramm", "value": "Temp", "category": "adv_type", "tooltip": "Temporal adverb"},
+            {"type": "gramm", "value": "Mod", "category": "adv_type", "tooltip": "Modal adverb"},
+            {"type": "gramm", "value": "other", "category": "adv_type", "tooltip": "Other type of adverb"},
+            {"type": "header", "value": "Type of particle"},
+            {"type": "gramm", "value": "Neg", "category": "part_type", "tooltip": "Negation"},
+            {"type": "header", "value": "Type of preposition"},
+            {"type": "gramm", "value": "Free", "category": "prep_type", "tooltip": "Free form of preposition"},
+            {"type": "header", "value": "Proper noun type"},
+            {"type": "gramm", "value": "PER", "category": "PROPN_type", "tooltip": "Person"},
+            {"type": "gramm", "value": "LOC", "category": "PROPN_type", "tooltip": "Location"},
+            {"type": "header", "value": "Adjective form"},
+            {"type": "gramm", "value": "Def", "category": "adj_det", "tooltip": "Definite adjective"},
+            {"type": "gramm", "value": "Indef", "category": "adj_det", "tooltip": "Indefinite adjective"},
+            {"type": "gramm", "value": "Elat", "category": "Degree", "tooltip": "Elative"},
+            {"type": "header", "value": "Numeral type"},
+            {"type": "gramm", "value": "Card", "category": "num_type", "tooltip": "Cardinal"},
+            {"type": "gramm", "value": "Ord", "category": "num_type", "tooltip": "Ordinal"}
+          ],
+          [
+            {"type": "header", "value": "Verb TAM"},
+            {"type": "gramm", "value": "Praet", "category": "tense", "tooltip": "Preterite"},
+            {"type": "gramm", "value": "Subj", "category": "mood", "tooltip": "Subjunctive"},
+            {"type": "gramm", "value": "Imp", "category": "mood", "tooltip": "Imperative"},
+            {"type": "gramm", "value": "Prs", "category": "tense", "tooltip": "Present"},
+            {"type": "gramm", "value": "Perf", "category": "tense", "tooltip": "Perfect"},
+            {"type": "header", "value": "Verb stem"},
+            {"type": "gramm", "value": "I", "category": "Stamm", "tooltip": "I stem"},
+            {"type": "gramm", "value": "II", "category": "Stamm", "tooltip": "II stem"},
+            {"type": "gramm", "value": "III", "category": "Stamm", "tooltip": "III stem"},
+            {"type": "gramm", "value": "IV", "category": "Stamm", "tooltip": "IV stem"},
+            {"type": "gramm", "value": "Iw", "category": "Stamm", "tooltip": "Iw stem"},
+            {"type": "gramm", "value": "Iy", "category": "Stamm", "tooltip": "Iy stem"},
+            {"type": "gramm", "value": "In", "category": "Stamm", "tooltip": "In stem"},
+            {"type": "gramm", "value": "Iʔ", "category": "Stamm", "tooltip": "Iʔ stem"},
+            {"type": "gramm", "value": "IIw", "category": "Stamm", "tooltip": "IIw stem"},
+            {"type": "gramm", "value": "IIy", "category": "Stamm", "tooltip": "IIy stem"},
+            {"type": "gramm", "value": "II2", "category": "Stamm", "tooltip": "II2 stem"},
+            {"type": "gramm", "value": "IIIy", "category": "Stamm", "tooltip": "IIIy stem"},
+            {"type": "gramm", "value": "III2", "category": "Stamm", "tooltip": "III2 stem"},
+            {"type": "gramm", "value": "IVy", "category": "Stamm", "tooltip": "IVy stem"},
+            {"type": "gramm", "value": "I7", "category": "Stamm", "tooltip": "I7 stem"},
+            {"type": "gramm", "value": "I8", "category": "Stamm", "tooltip": "I8 stem"},
+            {"type": "gramm", "value": "I10", "category": "Stamm", "tooltip": "I10 stem"}
+          ],
+          [
+			      {"type": "header", "value": "Direct object"},
+            {"type": "gramm", "value": "O.1cs", "category": "object", "tooltip": "First common singular"},
+            {"type": "gramm", "value": "O.1cp", "category": "object", "tooltip": "First common plural"},
+            {"type": "gramm", "value": "O.2ms", "category": "object", "tooltip": "Second masculine singular"},
+            {"type": "gramm", "value": "O.2fs", "category": "object", "tooltip": "Second feminine singular"},
+            {"type": "gramm", "value": "O.2mp", "category": "object", "tooltip": "Second masculine plural"},
+            {"type": "gramm", "value": "O.2fp", "category": "object", "tooltip": "Second feminine plural"},
+            {"type": "gramm", "value": "O.3ms", "category": "object", "tooltip": "Third masculine singular"},
+            {"type": "gramm", "value": "O.3fs", "category": "object", "tooltip": "Third feminine singular"},
+            {"type": "gramm", "value": "O.3mp", "category": "object", "tooltip": "Third masculine plural"},
+            {"type": "gramm", "value": "O.3fp", "category": "object", "tooltip": "Third feminine plural"},
+            {"type": "gramm", "value": "DOM", "category": "DOM", "tooltip": "Differential object marking"},
+            {"type": "header", "value": "Indirect object"},
+            {"type": "gramm", "value": "D.1cs", "category": "object", "tooltip": "First common singular"},
+            {"type": "gramm", "value": "D.1cp", "category": "object", "tooltip": "First common plural"},
+            {"type": "gramm", "value": "D.2ms", "category": "object", "tooltip": "Second masculine singular"},
+            {"type": "gramm", "value": "D.2fs", "category": "object", "tooltip": "Second feminine singular"},
+            {"type": "gramm", "value": "D.2mp", "category": "object", "tooltip": "Second masculine plural"},
+            {"type": "gramm", "value": "D.2fp", "category": "object", "tooltip": "Second feminine plural"},
+            {"type": "gramm", "value": "D.3ms", "category": "object", "tooltip": "Third masculine singular"},
+            {"type": "gramm", "value": "D.3fs", "category": "object", "tooltip": "Third feminine singular"},
+            {"type": "gramm", "value": "D.3mp", "category": "object", "tooltip": "Third masculine plural"},
+            {"type": "gramm", "value": "D.3fp", "category": "object", "tooltip": "Third feminine plural"}
+          ],
+          [
+			      {"type": "header", "value": "Double object"},
+            {"type": "gramm", "value": "Dopp.1cs", "category": "object", "tooltip": "First common singular"},
+            {"type": "gramm", "value": "Dopp.1cp", "category": "object", "tooltip": "First common plural"},
+            {"type": "gramm", "value": "Dopp.2ms", "category": "object", "tooltip": "Second masculine singular"},
+            {"type": "gramm", "value": "Dopp.2fs", "category": "object", "tooltip": "Second feminine singular"},
+            {"type": "gramm", "value": "Dopp.2mp", "category": "object", "tooltip": "Second masculine plural"},
+            {"type": "gramm", "value": "Dopp.2fp", "category": "object", "tooltip": "Second feminine plural"},
+            {"type": "gramm", "value": "Dopp.3ms", "category": "object", "tooltip": "Third masculine singular"},
+            {"type": "gramm", "value": "Dopp.3fs", "category": "object", "tooltip": "Third feminine singular"},
+            {"type": "gramm", "value": "Dopp.3mp", "category": "object", "tooltip": "Third masculine plural"},
+            {"type": "gramm", "value": "Dopp.3fp", "category": "object", "tooltip": "Third feminine plural"},
+            {"type": "header", "value": "Possessive"},
+            {"type": "gramm", "value": "HD", "category": "HD", "tooltip": "Status constructus"},
+            {"type": "gramm", "value": "POSS.1cs", "category": "POSS", "tooltip": "First common singular"},
+            {"type": "gramm", "value": "POSS.1cp", "category": "POSS", "tooltip": "First common plural"},
+            {"type": "gramm", "value": "POSS.2ms", "category": "POSS", "tooltip": "Second masculine singular"},
+            {"type": "gramm", "value": "POSS.2fs", "category": "POSS", "tooltip": "Second feminine singular"},
+            {"type": "gramm", "value": "POSS.2mp", "category": "POSS", "tooltip": "Second masculine plural"},
+            {"type": "gramm", "value": "POSS.2fp", "category": "POSS", "tooltip": "Second feminine plural"},
+            {"type": "gramm", "value": "POSS.3ms", "category": "POSS", "tooltip": "Third masculine singular"},
+            {"type": "gramm", "value": "POSS.3fs", "category": "POSS", "tooltip": "Third feminine singular"},
+            {"type": "gramm", "value": "POSS.3mp", "category": "POSS", "tooltip": "Third masculine plural"},
+            {"type": "gramm", "value": "POSS.3fp", "category": "POSS", "tooltip": "Third feminine plural"},
+            {"type": "gramm", "value": "POSS.3cp", "category": "POSS", "tooltip": "Third common plural"}
+          ]
+        ]
+      }
+    },
+    "german":{        
+      "gr_fields_order": ["pos"],
+      "gramm_selection": {
+        "columns": [
+          [
+            {"type": "header", "value": "Part of speech"},
+            {"type": "gramm", "value": "NOUN", "category": "pos", "tooltip": "Noun"},
+            {"type": "gramm", "value": "VERB", "category": "pos", "tooltip": "Verb"},
+            {"type": "gramm", "value": "PRON", "category": "pos", "tooltip": "Pronoun"},
+            {"type": "gramm", "value": "DET", "category": "pos", "tooltip": "Determiner"},
+            {"type": "gramm", "value": "ADJ", "category": "pos", "tooltip": "Adjective"},
+            {"type": "gramm", "value": "SCONJ", "category": "pos", "tooltip": "Subordinating conjunction"},
+            {"type": "gramm", "value": "CCONJ", "category": "pos", "tooltip": "Coordinating conjunction"},
+            {"type": "gramm", "value": "PREP", "category": "pos", "tooltip": "Preposition"},
+            {"type": "gramm", "value": "ADV", "category": "pos", "tooltip": "Adverb"},
+            {"type": "gramm", "value": "PROPN", "category": "pos", "tooltip": "Proper noun"},
+            {"type": "gramm", "value": "PART", "category": "pos", "tooltip": "Particle"},
+            {"type": "gramm", "value": "AUX", "category": "pos", "tooltip": "Auxiliary verb"},
+            {"type": "gramm", "value": "NUM", "category": "pos", "tooltip": "Pronoun"},
+            {"type": "gramm", "value": "INTJ", "category": "pos", "tooltip": "Interjection"}
+          ]
+        ]
+        }
+  }
+}
+}
