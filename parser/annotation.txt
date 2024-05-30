@@ -1,0 +1,1555 @@
+DET,Demhōʕ005. «ē, čbōʕin nišw ḥenna?»
+005. «Ja, wollt ihr, daß wir (das Färben mit) Henna durchführen?»
+
+ē:		ē		PART		ē		yes
+čbōʕin:		ibəʕ yibəʕ		VERB,I,Prs,2,Pl,m		č-bōʕ-in		2-STEM-MP
+nišw:		išw yišw		VERB,I,Subj,1,Pl,c		n-išw		1-STEM
+ḥenna:		ḥenna		NOUN,m,Sg		ḥenn-a		STEM-Free
+
+
+014. bōṯar irpiʕ yūm mʕawītin xett mayṯyin ḏbīḥča, naxsilla.
+014. Nach vierzig Tagen bringen sie wieder ein Schlachttier und schlachten es.
+
+bōṯar:		bōṯar		PREP		bōṯar		STEM
+irpiʕ:		irpiʕ		NUM,Card		irpiʕ		fourty
+yūm:		yōma		NOUN,m,ZPl		yūm		STEM
+mʕawītin:		ʕōwet yʕōwet		VERB,III,Prs,3,Pl,m		mʕawīt-in		STEM-MP
+xett:		xett		ADV,Mod		xett		STEM
+mayṯyin:		ayṯ yayṯ		VERB,IVy,Prs,3,Pl,m		ma-yṯy-in		3-STEM-MP
+ḏbīḥča:		ḏbīḥča		NOUN,f,Sg		ḏbīḥ-ča		STEM-Free
+naxsilla:		inxas yinxus		VERB,I,Prs,3,Pl,m,O.3fs		naxs-il-la		STEM-FP-3fsФ4
+
+
+057. ḳarribōye ḳaʕyin b-anna payṯa, mayṯyin ḳurʔān w ḳaryill lanna ḳurʔān mn-awwalče l-axerče.
+057. Seine Verwandten bleiben im Haus, holen den Koran und lesen den Koran von Anfang bis zum Ende.
+
+ḳarribōye:		ḳarrība		NOUN,POSS.3ms,Pl,m		ḳarrib-ōy-e		STEM-MP.DEF-3ms
+ḳaʕyin:		ḳʕōle yiḳʕēle		VERB,Perf,3,Pl,m		ḳaʕy-in		STEM-MP
+b:		b		PREP,Free		b		in
+anna:		hanna		DET,Sg,m		anna		this.M
+payṯa:		payṯa		NOUN,m,Sg		payṯ-a		STEM-Free
+mayṯyin:		ayṯ yayṯ		VERB,IVy,Prs,3,Pl,m		ma-yṯy-in		3-STEM-MP
+ḳurʔān:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+ḳaryill:		EMPTY		VERB,EMPTY				
+lanna:		hanna		DET,Sg,m		lanna		this.M
+ḳurʔān:		EMPTY		NOUN,EMPTY				
+mn:		m		PREP,Free		mn		from
+awwalče:		awwalča		NOUN,f,Sg,POSS.3ms		awwal-č-e		STEM-F-3ms
+l:		l		PREP,Free		l		to
+axerče:		axerča		NOUN,f,Sg,POSS.3ms		axer-č-e		STEM-F-3ms
+
+
+016. ḳōymin ommṯa bakkar, nōḥčin ʕa žēmʕa ʕam-ṣallyin w zlillun ʕa žappōnča.
+016. Die Leute stehen (am Festtag) frühzeitig auf, gehen hinunter zur Moschee, beten und gehen zum Friedhof.
+
+ḳōymin:		aḳam yīḳum		VERB,IIw,Prs,3,Pl,m		ḳōym-in		STEM-MP
+ommṯa:		ommṯa		NOUN,f,Sg		omm-ṯ-a		STEM-F-Free
+bakkar:		INCORRECT		ADV,INCORRECT		bakkar		STEM
+nōḥčin:		inḥeč yiḥḥuč		VERB,In,Prs,3,Pl,m		nōḥč-in		STEM-MP
+ʕa:		ʕa		PREP,Free		ʕa		on
+žēmʕa:		EMPTY		NOUN,EMPTY				
+ʕam:		ʕamma		AUX		ʕam		PP
+ṣallyin:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+zlillun:		zalle yzelle		VERB,I,Prs,3,Pl,m		zli-llun		STEM-3
+ʕa:		ʕa		PREP,Free		ʕa		on
+žappōnča:		žappōnča		NOUN,f,Sg		žappōn-č-a		STEM-F-Free
+
+
+003. zlallen ʕṣofra yzūran.
+003. Am Morgen gehen sie, um (die Gräber) zu besuchen.
+
+zlallen:		zalle yzelle		VERB,I,Prs,3,Pl,f		zla-llen		STEM-3
+ʕṣofra:		ʕṣofra		NOUN,m,Sg		ʕṣofr-a		STEM-Free
+yzūran:		EMPTY		VERB,EMPTY				
+
+
+004. hū čū ōxel menna, mōrəl ḏ̣ḥīṯa ču maḥiḳḳle yīxul, yḏuḳenne bnaw bnawb, yīxul menna.
+004. Er (selbst) ißt nichts davon, dem Eigentümer des Opfertiers steht es nicht zu, (davon) zu essen, ja nicht einmal zu kosten, (es steht ihm nicht zu), davon zu essen.
+
+hū:		hū		PRON,Pers,3,Sg,m		hū		STEM
+čū:		ču		PART,Neg		čū		NEG
+ōxel:		axal yīxul		VERB,Iʔ,Prs,3,Sg,m		ōxel		STEM
+menna:		m		PREP,POSS.3fs		menn-a		from-3fs
+mōrəl:		mōra		NOUN,m,Sg,HD		mōr-əl		STEM-HD
+ḏ̣ḥīṯa:		ḏ̣ḥīṯa		NOUN,Sg,f				
+ču:		ču		PART,Neg		ču		NEG
+maḥiḳḳle:		EMPTY		VERB,EMPTY				
+yīxul:		axal yīxul		VERB,Iʔ,Subj,3,Sg,m		y-īxul		3m-STEM
+yḏuḳenne:		EMPTY		VERB,EMPTY				
+bnaw:		EMPTY		ADV,EMPTY				
+bnawb:		EMPTY		ADV,EMPTY				
+yīxul:		axal yīxul		VERB,Iʔ,Subj,3,Sg,m		y-īxul		3m-STEM
+menna:		m		PREP,POSS.3fs		menn-a		from-3fs
+
+
+009. amrulla: «nḥūč!» niḥčaṯ, niḥčaṯ ʕal-ōḏ mʕarrṯa.
+009. Sie sagten zu ihr: «Steig ab!» Sie stieg ab, sie stieg zu dieser Höhle hinab.
+
+amrulla:		amar yīmar		VERB,Iʔ,Praet,3,Pl,m,D.3fs		amr-ul-la		STEM-3mp-3fs.IO
+nḥūč:		inḥeč yiḥḥuč		VERB,In,Imp,Sg,f		nḥūč		STEM
+niḥčaṯ:		inḥeč yiḥḥuč		VERB,In,Praet,3,Sg,f		niḥč-aṯ		STEM-3fs
+niḥčaṯ:		inḥeč yiḥḥuč		VERB,In,Praet,3,Sg,f		niḥč-aṯ		STEM-3fs
+ʕal:		ʕa		PREP,Free		ʕal		on
+ōḏ:		hōḏ		DET,Sg,f		ōḏ		this.F
+mʕarrṯa:		mʕarrṯa		NOUN,f,Sg		mʕarr-ṯ-a		STEM-F-Free
+
+
+004. ḳaʕya willa la iḥmaṯ illa iʕber aʕla, iʕber aʕla, iḏʕaṯ hī.
+004. Sie saß da, und plötzlich traten sie (die Dämonen) bei ihr ein; sie traten bei ihr ein, und sie erkannte sie.
+
+ḳaʕya:		ḳʕōle yiḳʕēle		VERB,Perf,3,Sg,f		ḳaʕy-a		STEM-F
+willa:		willa/walla		ADV,Mod		willa		STEM
+la:		la		PART,Neg		la		NEG
+iḥmaṯ:		iḥəm yiḥəm		VERB,I,Praet,3,Sg,f		iḥm-aṯ		STEM-3
+illa:		illa		PART		illa		STEM
+iʕber:		iʕber yiʕbar		VERB,I,Praet,3,Pl,c		iʕber		STEM
+aʕla:		ʕa		PREP,POSS.3fs		aʕl-a		on-3fs
+iʕber:		iʕber yiʕbar		VERB,I,Praet,3,Pl,c		iʕber		STEM
+aʕla:		ʕa		PREP,POSS.3fs		aʕl-a		on-3fs
+iḏʕaṯ:		iḏeʕ yīḏeʕ		VERB,Iy,Praet,3,Sg,f		iḏʕ-aṯ		STEM-3
+hī:		hī		PRON,Pers,3,Sg,f		hī		STEM
+
+
+015. ʕala ṭūl mičwaḥḥ bē w ʕala ṭūl p-ḥaṣṣir rayše w iṭleb menne metti w batte yapplēle.
+015. Immerzu wird er von ihm inspiriert, und er ist immer über seinem Kopf, und wenn er irgendetwas von ihm erbeten hat, wird es es ihm geben.
+
+ʕala:		ʕala		SCONJ		ʕala		STEM
+ṭūl:		ṭūla		NOUN,m,ZPl		ṭūl		STEM
+mičwaḥḥ:		EMPTY		VERB,EMPTY				
+bē:		b		PREP,POSS.3ms		b-ē		in-3ms
+w:		w		CCONJ		w		and
+ʕala:		ʕala		SCONJ		ʕala		STEM
+ṭūl:		ṭūla		NOUN,m,ZPl		ṭūl		STEM
+p:		b		PREP,Free		p		in
+ḥaṣṣir:		ḥaṣṣa		NOUN,m,Sg,HD		ḥaṣṣ-ir		STEM-HD
+rayše:		rayša		NOUN,m,Sg,POSS.3ms		rayš-e		STEM-3ms
+w:		w		CCONJ		w		and
+iṭleb:		iṭlab yiṭlub		VERB,I,Perf,3,Sg,m		iṭleb		STEM
+menne:		m		PREP,POSS.3ms		menn-e		from-3ms
+metti:		mett		PRON,Indef		metti		STEM
+w:		w		CCONJ		w		and
+batte:		batte		AUX,3,Sg,m		batt-e		STEM
+yapplēle:		EMPTY		VERB,EMPTY				
+
+
+003. ōṯ ġabrōna, wōb b-ġayrib blōta w ōṯ.
+003. Es gab einen Mann, der war in einem anderen Dorf, und er kehrte zurück.
+
+ōṯ:		ōṯ		AUX		ōṯ		STEM
+ġabrōna:		ġabrōna		NOUN,m,Sg		ġabrōn-a		STEM-Free
+wōb:		wōb		AUX,3,Sg,m		w-ōb		3ms-be
+b:		b		PREP,Free		b		in
+ġayrib:		ġayr		PRON,HD		ġayrib		STEM
+blōta:		blōta		NOUN,m,Sg		blōt-a		STEM-Free
+w:		w		CCONJ		w		and
+ōṯ:		ṯōle yṯēle		VERB,Prs,3,Sg,m		ōṯ		STEM
+
+
+001. b-zamōne ṯōle aḥḥaḏ dumōnay l-ōxa, ōmar mbaḳḳar p-šaġəlṯil mōya p-ḳīsa.
+001. Seinerzeit kam einmal einer aus Dūma hierher und sagte, er kenne sich aus in der Sache mit der Wasser(suche) mit der Rute.
+
+b:		b		PREP,Free		b		in
+zamōne:		zamōna		NOUN,m,Sg,POSS.3ms		zamōn-e		STEM-3ms
+ṯōle:		ṯōle yṯēle		VERB,Praet,3,Sg,m		ṯō-le		STEM-3ms
+aḥḥaḏ:		aḥḥaḏ		NUM,Card,m		aḥḥaḏ		one.M
+dumōnay:		dumōnay		ADJ,Indef,3,Sg,m		dumōn-ay		STEM-MS.INDF
+l:		l		PREP,Free		l		to
+ōxa:		hōxa		ADV,Loc		ōxa		STEM
+ōmar:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m		ōmar		STEM
+mbaḳḳar:		baḳḳar ybaḳḳar		VERB,II,Prs,3,Sg,m		mbaḳḳar		STEM
+p:		b		PREP,Free		p		in
+šaġəlṯil:		šaġəlṯa		NOUN,f,Sg,HD		šaġəl-ṯ-il		STEM-F-HD
+mōya:		mōya		NOUN,m,Pl		m-ōy-a		STEM-P-Free
+p:		b		PREP,Free		p		in
+ḳīsa:		ḳīsa		NOUN,m,Sg		ḳīs-a		STEM-Free
+
+
+016. ē, lōmar, la karr, aḳam ōčem ikbet b-ḏokkṯe w iḳəʕ, w hōṯa mafizza.
+016. Ja, er konnte überhaupt nichts (tun), da blieb er zusammengekauert an seinem Platz sitzen, und jene (Katze) hüpfte.
+
+ē:		ē		PART		ē		yes
+lōmar:		lōmar		PART		lōmar		STEM
+la:		la		PART,Neg		la		NEG
+karr:		EMPTY		VERB,EMPTY				
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳam		STEM
+ōčem:		ōčem yōčem		VERB,IV,Praet,3,Sg,m		ōčem		STEM
+ikbet:		ikbat yikbut		VERB,I,Perf,3,Sg,m		ikbet		STEM
+b:		b		PREP,Free		b		in
+ḏokkṯe:		ḏokkṯa		NOUN,f,Sg,POSS.3ms		ḏokk-ṯ-e		STEM-F-3ms
+w:		w		CCONJ		w		and
+iḳəʕ:		ḳʕōle yiḳʕēle		VERB,Perf,3,Sg,m		iḳəʕ		STEM
+w:		w		CCONJ		w		and
+hōṯa:		hōṯa		DET,Sg,f		hōṯa		STEM
+mafizza:		EMPTY		VERB,EMPTY				
+
+
+004. b-zamōna ʕaččīḳa msawəlfin wōṯ ḏēba rōfeḳ ṯaʕla malʕun w inžes w šūne lēle rfīḳa ġassem maʕ ḏibō ti iṯḳen mamrille yičwaʕʕ menne w yabʕeḏ meʕle.
+004. In alter Zeit, so sagt man, gab es einen Wolf, der war mit einem verschlagenen und gemeinen Fuchs befreundet, und er machte ihn zu seinem Freund gegen den Willen der Wölfe, die zu ihm zu sagen begannen, daß er sich vor ihm in acht nehmen und sich von ihm fernhalten solle.
+
+b:		b		PREP,Free		b		in
+zamōna:		zamōna		NOUN,m,Sg		zamōn-a		STEM-Free
+ʕaččīḳa:		ʕaččeḳ		ADJ,3,Def,Sg,m		ʕaččīḳ-a		STEM-MS.DEF
+msawəlfin:		EMPTY		VERB,EMPTY				
+wōṯ:		wōṯ		AUX		wōṯ		STEM
+ḏēba:		ḏēba		NOUN,m,Sg		ḏēb-a		STEM-Free
+rōfeḳ:		rōfeḳ yrōfeḳ		VERB,III,Praet,3,Sg,m		rōfeḳ		STEM
+ṯaʕla:		ṯaʕla		NOUN,m,Sg		ṯaʕl-a		STEM-Free
+malʕun:		malʕun		ADJ,3,Indef,Sg,m		malʕun		STEM
+w:		w		CCONJ		w		and
+inžes:		inžes		ADJ,3,Indef,Sg,m		inžes		STEM
+w:		w		CCONJ		w		and
+šūne:		išw yišw		VERB,I,Praet,3,Sg,m,O.3ms		šū-n-e		STEM-PLEO-3ms
+lēle:		l		PREP,POSS.3ms		l-ēle		to-3ms
+rfīḳa:		rfīḳa		NOUN,m,Sg		rfīḳ-a		STEM-Free
+ġassem:		EMPTY		SCONJ,EMPTY				
+maʕ:		maʕl		PREP,Free		maʕ		STEM
+ḏibō:		ḏēba		NOUN,m,Pl		ḏib-ō		STEM-P
+ti:		ti		PRON,Rel		ti		REL
+iṯḳen:		iṯḳen yiṯḳan		VERB,I,Praet,3,Pl,c		iṯḳen		STEM
+mamrille:		amar yīmar		VERB,Iʔ,Prs,3,Sg,m,D.3ms		mamril-le		STEM-3ms.IO
+yičwaʕʕ:		EMPTY		VERB,EMPTY				
+menne:		m		PREP,POSS.3ms		menn-e		from-3ms
+w:		w		CCONJ		w		and
+yabʕeḏ:		abʕeḏ yabʕeḏ		VERB,IV,Subj,3,Sg,m		ya-bʕeḏ		3M-STEM
+meʕle:		maʕl		PREP,POSS.3ms		meʕl-e		STEM-3ms
+
+
+028. mʕapparlun ṯaʕla ʕa mahle w ōxel, w minəpṣaṭ hū w bnōye w eččṯe.
+028. Gemächlich schaffte der Fuchs sie hinein und aß, und er freute sich, und seine Jungen und seine Frau (ebenso).
+
+mʕapparlun:		ʕappar yʕappar		VERB,II,Prs,3,Sg,m,O.3mp		mʕappar-lun		STEM-3mp
+ṯaʕla:		ṯaʕla		NOUN,m,Sg		ṯaʕl-a		STEM-Free
+ʕa:		ʕa		PREP,Free		ʕa		on
+mahle:		mahla		NOUN,m,Sg,POSS.3ms		mahl-e		STEM-3ms
+w:		w		CCONJ		w		and
+ōxel:		axal yīxul		VERB,Iʔ,Prs,3,Sg,m		ōxel		STEM
+w:		w		CCONJ		w		and
+minəpṣaṭ:		inəpṣaṭ yinəpṣaṭ		VERB,I7,Prs,3,Sg,m		mi-nəpṣaṭ		3M-STEM
+hū:		hū		PRON,Pers,3,Sg,m		hū		STEM
+w:		w		CCONJ		w		and
+bnōye:		ebra		NOUN,POSS.3ms,Pl,m		bn-ōy-e		STEM-P-3ms
+w:		w		CCONJ		w		and
+eččṯe:		eččṯa		NOUN,f,Sg,POSS.3ms		ečč-ṯ-e		STEM-F-3ms
+
+
+007. b-anna tarba allxinnaḥ, // w meʕle lorkaʕ ʕawitinnaḥ. // p-ḥaṣṣiš šenna šaʕʕlinnaḥ, // w ʕa šenna irčfaʕ ṣlība.
+007. Auf diesem Weg gingen wir, und von ihm weichen wir nicht ab. Oben auf dem Felsen entzündeten wir (Feuer), und auf dem Felsen wurde das Kreuz errichtet.
+
+b:		b		PREP,Free		b		in
+anna:		hanna		DET,Sg,m		anna		this.M
+tarba:		tarba		NOUN,m,Sg		tarb-a		STEM-Free
+allxinnaḥ:		allex yallex		VERB,IV,Praet,1,Pl,c		allx-innaḥ		STEM-1p
+w:		w		CCONJ		w		and
+meʕle:		maʕl		PREP,POSS.3ms		meʕl-e		STEM-3ms
+lorkaʕ:		lorkaʕ		PART		lorkaʕ		STEM
+ʕawitinnaḥ:		ʕōwet yʕōwet		VERB,III,Praet,1,Pl,c		ʕawit-innaḥ		STEM-1p
+p:		b		PREP,Free		p		in
+ḥaṣṣiš:		ḥaṣṣa		NOUN,m,Sg,HD		ḥaṣṣ-iš		STEM-HD
+šenna:		šenna		NOUN,m,Sg		šenn-a		STEM-Free
+šaʕʕlinnaḥ:		šaʕʕel yšaʕʕel		VERB,II,Praet,1,Pl,c		šaʕʕl-innaḥ		STEM-1p
+w:		w		CCONJ		w		and
+ʕa:		ʕa		PREP,Free		ʕa		on
+šenna:		šenna		NOUN,m,Sg		šenn-a		STEM-Free
+irčfaʕ:		irčfaʕ yirčfaʕ		VERB,I8,Praet,3,Sg,m		irčfaʕ		STEM
+ṣlība:		ṣlība		NOUN,m,Sg		ṣlīb-a		STEM-Free
+
+
+003. b-ʕaynōš nḥamēl kawna. // ʕaya la amrīšəl b-riḥmūṯiš? // ʕaya ḏikkliš aʕəl, amrīšəl: čimʕawīta. // hašš warṯṯa, ʕaya la affīšən nzurʕenna b-lipp?
+003. In deinen Augen sehe ich die (ganze) Schöpfung. Warum hast du mir nichts von deiner (früheren) Liebe gesagt? Warum hast du mich belogen und gesagt, du kämst zurück. Du bist eine Rose, warum hast du mir nicht erlaubt, sie in mein Herz zu pflanzen?
+
+b:		b		PREP,Free		b		in
+ʕaynōš:		ʕayna		NOUN,m,Pl,POSS.2fs		ʕayn-ō-š		STEM-P-2fs
+nḥamēl:		EMPTY		VERB,EMPTY				
+kawna:		kawna		NOUN,m,Sg		kawn-a		STEM-Free
+ʕaya:		ʕaya/ʕaža		ADV,Mod		ʕaya		STEM
+la:		la		PART,Neg		la		NEG
+amrīšəl:		amar yīmar		VERB,Iʔ,Praet,2,Sg,f,D.1cs		amr-īš-əl		STEM-2fs-1S.IO
+b:		b		PREP,Free		b		in
+riḥmūṯiš:		riḥmūṯa		NOUN,f,Sg,POSS.2fs		riḥmūṯ-iš		STEM-2fs
+ʕaya:		ʕaya/ʕaža		ADV,Mod		ʕaya		STEM
+ḏikkliš:		EMPTY		VERB,EMPTY				
+aʕəl:		ʕa		PREP,POSS.1cs		aʕəl		on
+amrīšəl:		amar yīmar		VERB,Iʔ,Praet,2,Sg,f,D.1cs		amr-īš-əl		STEM-2fs-1S.IO
+čimʕawīta:		ʕōwet yʕōwet		VERB,III,Prs,2,Sg,f		či-mʕawīt-a		2-STEM-F
+hašš:		hašš		PRON,Pers,2,Sg,f		hašš		STEM
+warṯṯa:		EMPTY		NOUN,EMPTY				
+ʕaya:		ʕaya/ʕaža		ADV,Mod		ʕaya		STEM
+la:		la		PART,Neg		la		NEG
+affīšən:		EMPTY		VERB,EMPTY				
+nzurʕenna:		EMPTY		VERB,EMPTY				
+b:		b		PREP,Free		b		in
+lipp:		leppa		NOUN,m,Sg,POSS.1cs		lipp		STEM
+
+
+004. inəbraḏ — ext bann nišwi? // bann nišči ḳūrəl mišwi, // w mina mann nayṯi ḥamra?
+004. Vom Hagel wurde (der Weinberg) verwüstet — was soll ich tun? // Ich will zum gebratenen Fleisch (Wein) trinken, // und woher soll ich Wein nehmen?
+
+inəbraḏ:		inəbraḏ yinəbraḏ		VERB,I7,Praet,3,Sg,m		inəbraḏ		STEM
+ext:		ex		ADV,Mod		ext		STEM
+bann:		batte		AUX,1,Sg,c		b-ann		STEM
+nišwi:		išw yišw		VERB,I,Subj,1,Sg,c		n-išwi		1-STEM
+bann:		batte		AUX,1,Sg,c		b-ann		STEM
+nišči:		išəč yišəč		VERB,I,Subj,1,Sg,c		n-išči		1-STEM
+ḳūrəl:		ḳūril		PREP,Free		ḳūrəl		near
+mišwi:		INCORRECT		NOUN,INCORRECT		mišwi		STEM
+w:		w		CCONJ		w		and
+mina:		mina		ADV,Loc		mina		STEM
+mann:		batte		AUX,1,Sg,c		m-ann		STEM
+nayṯi:		ayṯ yayṯ		VERB,IVy,Subj,1,Sg,c		n-ayṯi		1-STEM
+ḥamra:		ḥamra		NOUN,m,Sg		ḥamr-a		STEM-Free
+
+
+001. ḥmičča sallīḳa ʕa ḏayra // w zannīra b-zunnōrəs sayra // w lippi la irḥam ġayra // w hōḏ raḥme, berčis sōba.
+001. Ich sah sie hinaufgehen zum Kloster // gegürtet mit einem Ledergürtel, // und mein Herz liebte keine andere, // und das ist Raḥme, die Tochter des Bürgermeisters.
+
+ḥmičča:		iḥəm yiḥəm		VERB,I,Praet,1,Sg,c,O.3fs		ḥm-ič-č-a		STEM-1s-PLEO-3fs
+sallīḳa:		isleḳ yislaḳ		VERB,I,Perf,3,Sg,f		sallīḳ-a		STEM-F
+ʕa:		ʕa		PREP,Free		ʕa		on
+ḏayra:		ḏayra		NOUN,m,Sg		ḏayr-a		STEM-Free
+w:		w		CCONJ		w		and
+zannīra:		EMPTY		VERB,EMPTY				
+b:		b		PREP,Free		b		in
+zunnōrəs:		EMPTY		NOUN,EMPTY				
+sayra:		sayra		NOUN,m,Sg		sayr-a		STEM-Free
+w:		w		CCONJ		w		and
+lippi:		leppa		NOUN,m,Sg,POSS.1cs		lipp-i		STEM-1S
+la:		la		PART,Neg		la		NEG
+irḥam:		EMPTY		VERB,EMPTY				
+ġayra:		ġayr		PRON,3,Sg,f				
+w:		w		CCONJ		w		and
+hōḏ:		hōḏ		DET,Sg,f		hōḏ		this.F
+raḥme:		INCORRECT		PROPN,INCORRECT		raḥm-e		STEM-3ms
+berčis:		berča		NOUN,f,Sg,HD		berč-is		STEM-HD
+sōba:		sōba		NOUN,m,Sg		sōb-a		STEM-Free
+
+
+004. amrōli: «payṯaḥ iʕli». // amrilla: «p-ḥaṣṣe nṭayyer.»
+004. Sie sagte zu mir: «Unser Haus ist hoch.» // Ich sagte zu ihr: «Ich fliege darüber.»
+
+amrōli:		amar yīmar		VERB,Iʔ,Prs,3,Sg,f,D.1cs		amrō-li		STEM-1S.IO
+payṯaḥ:		payṯa		NOUN,m,Sg,POSS.1cp		payṯ-aḥ		STEM-1P
+iʕli:		iʕəl		ADJ,Indef,3,Sg,m		
+amrilla:		amar yīmar		VERB,Iʔ,Praet,1,Sg,c,D.3fs		amr-il-la		STEM-1cs-3fs.IO
+p:		b		PREP,Free		p		in
+ḥaṣṣe:		ḥaṣṣa		NOUN,m,Sg,POSS.3ms		ḥaṣṣ-e		STEM-3ms
+nṭayyer:		aṭar yīṭar		VERB,Iy,Perf,1,Sg,m		n-ṭayyer		1-STEM
+
+
+002. hōš nizlōli ʕa payṯa w niṯyōli, // immi p-tarba hōši minčaḳyōli. // hačči l-ḥōlax zellax w_ana l-ḥōli, // w ʕrōba čḳōmez ʕa payṯa ḳmōza.
+002. Ich gehe jetzt nach Hause und komme (wieder), // meine Mutter wird mir jetzt auf dem Weg begegnen. // Geh du alleine, und ich werde alleine (gehen), // und am Abend springe nach Hause.
+
+hōš:		hōš		ADV,Temp		hōš		STEM
+nizlōli:		zalle yzelle		VERB,I,Prs,1,Sg,f		ni-zlō-li		1-STEM-F
+ʕa:		ʕa		PREP,Free		ʕa		on
+payṯa:		payṯa		NOUN,m,Sg		payṯ-a		STEM-Free
+w:		w		CCONJ		w		and
+niṯyōli:		ṯōle yṯēle		VERB,Prs,1,Sg,f		ni-ṯyō-li		1-STEM-F
+immi:		emma		NOUN,f,Sg,POSS.1cs		imm-i		STEM-1S
+p:		b		PREP,Free		p		in
+tarba:		tarba		NOUN,m,Sg		tarb-a		STEM-Free
+hōši:		hōš		ADV,Temp		hōši		STEM
+minčaḳyōli:		EMPTY		VERB,EMPTY				
+hačči:		hačč		PRON,Pers,2,Sg,m		hačči		STEM
+l:		l		PREP,Free		l		to
+ḥōlax:		ḥōla		NOUN,m,Sg,POSS.2ms		ḥōl-ax		STEM-2ms
+zellax:		zalle yzelle		VERB,I,Imp,Sg,m		z-ellax		STEM-IPV.MS
+w:		w		CCONJ		w		and
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+l:		l		PREP,Free		l		to
+ḥōli:		ḥōla		NOUN,POSS.1cs,Sg,m		ḥōl-i		STEM-1S
+w:		w		CCONJ		w		and
+ʕrōba:		ʕrōba		NOUN,m,Sg				
+čḳōmez:		iḳmaz yiḳmuz		VERB,I,Prs,2,Sg,m		č-ḳōmez		2-STEM
+ʕa:		ʕa		PREP,Free		ʕa		on
+payṯa:		payṯa		NOUN,m,Sg		payṯ-a		STEM-Free
+ḳmōza:		ḳmōza		NOUN,m,Sg		ḳmōz-a		STEM-Free
+
+
+004. awʕax čīmar: batt w batt // mn-ōt tunya, tunya mīṯa. // barnōša ʕa ḥōle mʕatt // mn-īḏe isḳaṭ bə-ḥṭīṯa.
+004. Hüte dich zu sagen: Ich will und ich will // von dieser Welt, (denn) die Welt ist tot. // Der Mensch, der sich (nur) auf sich selbst verläßt, // fällt mit seiner (eigenen) Hand in Sünde.
+
+awʕax:		awəʕ yawəʕ		VERB,INCORRECT		awʕ-ax		STEM-2ms
+čīmar:		amar yīmar		VERB,Iʔ,Subj,2,Sg,m		č-īmar		2-STEM
+batt:		batte		AUX,1,Sg,c		batt		STEM
+w:		w		CCONJ		w		and
+batt:		batte		AUX,1,Sg,c		batt		STEM
+mn:		m		PREP,Free		mn		from
+ōt:		hōḏ		DET,Sg,f		ōt		this.F
+tunya:		tunya		NOUN,m,Sg		tuny-a		STEM-Free
+tunya:		tunya		NOUN,m,Sg		tuny-a		STEM-Free
+mīṯa:		ameṯ yīmuṯ		VERB,IIy,Perf,3,Sg,f		mīṯ-a		STEM-F
+barnōša:		barnōša		NOUN,m,Sg		barnōš-a		STEM-Free
+ʕa:		ʕa		PREP,Free		ʕa		on
+ḥōle:		ḥōla		NOUN,m,Sg,POSS.3ms		ḥōl-e		STEM-3ms
+mʕatt:		EMPTY		VERB,EMPTY				
+mn:		m		PREP,Free		mn		from
+īḏe:		īḏa		NOUN,m,Sg,POSS.3ms		īḏ-e		STEM-3ms
+isḳaṭ:		isḳaṭ yisḳaṭ		VERB,I,Praet,3,Sg,m		isḳaṭ		STEM
+bə:		b		PREP,Free		bə		in
+ḥṭīṯa:		ḥṭīṯa		NOUN,f,Sg		ḥṭī-ṯ-a		STEM-F-Free
+
+
+012. yīfuš ti čṯēx l-ġappe, // čmiščaḥ ġawza w pšōṯa, // ōxel w mišwi b-ʕoppe, // w šōḳel m-maḥərmōṯa.
+012. Du wirst überhaupt nicht mehr, wenn du zu ihm kommst, // Nüsse und Rosinen finden, // die man ißt und in seine Tasche steckt, // und in den Taschentüchern mitnimmt.
+
+yīfuš:		yīfuš		AUX		yīfuš		STEM
+ti:		ti		PRON,Rel		ti		REL
+čṯēx:		ṯōle yṯēle		VERB,Prs,2,Sg,m		č-ṯē-x		2-STEM-M
+l:		l		PREP,Free		l		to
+ġappe:		ġappil		PREP,POSS.3ms		ġapp-e		STEM-3ms
+čmiščaḥ:		iščaḥ yiščaḥ		VERB,I8,Prs,2,Sg,m		č-miščaḥ		2-STEM
+ġawza:		ġawza		NOUN,m,Sg		ġawz-a		STEM-Free
+w:		w		CCONJ		w		and
+pšōṯa:		ebəšṯa		NOUN,f,Pl		pš-ō-ṯ-a		STEM-P-F-Free
+ōxel:		axal yīxul		VERB,Iʔ,Prs,3,Sg,m		ōxel		STEM
+w:		w		CCONJ		w		and
+mišwi:		išw yišw		VERB,I,Prs,3,Sg,m		mišwi		STEM
+b:		b		PREP,Free		b		in
+ʕoppe:		ʕoppa		NOUN,m,Sg,POSS.3ms		ʕopp-e		STEM-3ms
+w:		w		CCONJ		w		and
+šōḳel:		išḳal yišḳul		VERB,I,Prs,3,Sg,m		šōḳel		STEM
+m:		b		PREP,Free		m		in
+maḥərmōṯa:		maḥramṯa		NOUN,f,Pl		maḥərm-ō-ṯ-a		STEM-P-F-Free
+
+
+011. xēfəl matōra ḳōtrin ʕa baġla w mafčel ḥetta yṯuḳnun ex ḥmīra.
+011. An den (oberen) Mahlstein bindet man ein Maultier, und es dreht (den Mahlstein) solange, bis sie (die Rosinen weich) wie Sauerteig werden.
+
+xēfəl:		xēfa		NOUN,m,Sg,HD		xēf-əl		STEM-HD
+matōra:		matōra		NOUN,m,Sg		matōr-a		STEM-Free
+ḳōtrin:		iḳtar yiḳtur		VERB,I,Prs,3,Pl,m		ḳōtr-in		STEM-MP
+ʕa:		ʕa		PREP,Free		ʕa		on
+baġla:		baġla		NOUN,m,Sg		baġl-a		STEM-Free
+w:		w		CCONJ		w		and
+mafčel:		afčel yafčel		VERB,IV,Prs,3,Sg,m		ma-fčel		3-STEM
+ḥetta:		ḥetta/ḥatta		SCONJ		ḥetta		STEM
+yṯuḳnun:		iṯḳen yiṯḳan		VERB,I,Subj,3,Pl,m		y-ṯuḳn-un		3-STEM-MP
+ex:		ex		ADV,Mod		ex		STEM
+ḥmīra:		ḥmīra		NOUN,Sg,m				
+
+
+006. maḳimill lanna nšīfa w mawḳfin maʕ ġrōsa, ṯyillun atar ġayrayy, xett šappō, ḳaʕyillun ʕal-ōġ ġrōrča, ġōrsin w mʕannyin w masəkrin w mbaṣṭin.
+006. Sie schaffen die (gemahlenen) Weizengraupen weg und hören mit dem Mahlen auf, und dann kommen andere, auch Jünglinge, setzen sich an die Handmühle, mahlen, singen, betrinken sich und sind fröhlich.
+
+maḳimill:		ōḳem yōḳem		VERB,IV,Prs,3,Pl,m,DOM		maḳim-il-l		STEM-MP-DOM
+lanna:		hanna		DET,Sg,m		lanna		this.M
+nšīfa:		nšīfa		NOUN,m,Sg		nšīf-a		STEM-Free
+w:		w		CCONJ		w		and
+mawḳfin:		awḳef yawḳef		VERB,IV,Prs,3,Pl,m		ma-wḳf-in		3-STEM-MP
+maʕ:		maʕl		PREP,Free		maʕ		STEM
+ġrōsa:		ġrōsa		NOUN,m,Sg		ġrōs-a		STEM-Free
+ṯyillun:		ṯōle yṯēle		VERB,Prs,3,Pl,m		ṯyi-llun		STEM-3
+atar:		atar		AUX		atar		STEM
+ġayrayy:		ġayr		PRON,3,Pl,m				
+xett:		xett		ADV,Mod		xett		STEM
+šappō:		šappa		NOUN,m,Pl		šapp-ō		STEM-P
+ḳaʕyillun:		ḳʕōle yiḳʕēle		VERB,Prs,3,Pl,m		ḳaʕyi-llun		STEM-3
+ʕal:		ʕa		PREP,Free		ʕal		on
+ōġ:		hōḏ		DET,Sg,f		ōġ		this.F
+ġrōrča:		ġrōrča		NOUN,f,Sg		ġrōr-č-a		STEM-F-Free
+ġōrsin:		iġras yiġrus		VERB,I,Prs,3,Pl,m		ġōrs-in		STEM-MP
+w:		w		CCONJ		w		and
+mʕannyin:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+masəkrin:		askar yaskar		VERB,IV,Prs,3,Pl,m		ma-səkr-in		3-STEM-MP
+w:		w		CCONJ		w		and
+mbaṣṭin:		EMPTY		VERB,EMPTY				
+
+
+018. čūb ext_imōḏ, imōḏ ḥarīma baḥar čannīḥan, awwalča ḥarīma baḥar čaʕbōnan.
+018. Es war nicht wie heutzutage, (denn) heute sind die Frauen sehr ausgeruht; früher waren die Frauen sehr erschöpft.
+
+čūb:		čūb		AUX,Neg,3,Sg,m		čūb		STEM
+ext:		ex		ADV,Mod		
+imōḏ:		imōḏ		ADV,Temp		imōḏ		STEM
+imōḏ:		imōḏ		ADV,Temp		imōḏ		STEM
+ḥarīma:		ḥarīma		NOUN,m,Sg		ḥarīm-a		STEM-Free
+baḥar:		baḥar		ADV,Mod		baḥar		STEM
+čannīḥan:		ačneḥ yačneḥ		VERB,IV,Perf,3,Pl,f		čannīḥ-an		STEM-FP
+awwalča:		awwalča		NOUN,f,Sg		awwal-č-a		STEM-F-Free
+ḥarīma:		ḥarīma		NOUN,m,Sg		ḥarīm-a		STEM-Free
+baḥar:		baḥar		ADV,Mod		baḥar		STEM
+čaʕbōnan:		čaʕban		ADJ,Indef,Pl,f,3		čaʕbōn-an		STEM-FP.INDF
+
+
+009. nafḏiṯ l-ellel, niḥčiṯ ʕa mʕarrṯa, lā ōṯ ʕimm nohra w lā ōṯ ʕimm mett.
+009. Ich kam dort an, ging in die Höhle hinein, und ich hatte weder ein Licht dabei noch sonst irgendetwas.
+
+nafḏiṯ:		infaḏ yinfuḏ		VERB,I,Praet,1,Sg,c		nafḏ-iṯ		STEM-1s
+l:		l		PREP,Free		l		to
+ellel:		ellel		ADV,Loc		ellel		STEM
+niḥčiṯ:		inḥeč yiḥḥuč		VERB,In,Praet,1,Sg,c		niḥč-iṯ		STEM-1s
+ʕa:		ʕa		PREP,Free		ʕa		on
+mʕarrṯa:		mʕarrṯa		NOUN,f,Sg		mʕarr-ṯ-a		STEM-F-Free
+lā:		la		PART,Neg		lā		NEG
+ōṯ:		ōṯ		AUX		ōṯ		STEM
+ʕimm:		ʕemmil		PREP,POSS.1cs		ʕimm		with
+nohra:		nohra		NOUN,m,Sg		nohr-a		STEM-Free
+w:		w		CCONJ		w		and
+lā:		la		PART,Neg		lā		NEG
+ōṯ:		ōṯ		AUX		ōṯ		STEM
+ʕimm:		ʕemmil		PREP,POSS.1cs		ʕimm		with
+mett:		mett		PRON,Indef		mett		STEM
+
+
+015. ḳōmiṯ zlill ʕa napka.
+015. Ich machte mich auf und ging nach Nabk.
+
+ḳōmiṯ:		aḳam yīḳum		VERB,IIw,Praet,1,Sg,c		ḳōm-iṯ		STEM-1s
+zlill:		zalle yzelle		VERB,I,Praet,1,Sg,c		z-lill		STEM-1s
+ʕa:		ʕa		PREP,Free		ʕa		on
+napka:		napka		PROPN,LOC		napka		STEM
+
+
+009. w ḥrēna žabḏunne mōya ḥetta amṭunne r-reḥyil ḳamṣa l-awwalčiš šiḳya.
+009. Und den anderen riß das Wasser mit und brachte ihn zur ḳamṣa-Mühle am Anfang der bewässerten Gärten.
+
+w:		w		CCONJ		w		and
+ḥrēna:		ḥrēna		PRON,Sg,m				
+žabḏunne:		ižbaḏ yižbuḏ		VERB,I,Praet,3,Pl,m,O.3ms		žabḏ-un-n-e		STEM-3mp-PLEO-3ms
+mōya:		mōya		NOUN,m,Pl		m-ōy-a		STEM-P-Free
+ḥetta:		ḥetta/ḥatta		SCONJ		ḥetta		STEM
+amṭunne:		EMPTY		VERB,EMPTY				
+r:		l		PREP,Free		r		to
+reḥyil:		EMPTY		NOUN,EMPTY				
+ḳamṣa:		ḳamṣa		NOUN,m,Sg		ḳamṣ-a		STEM-Free
+l:		l		PREP,Free		l		to
+awwalčiš:		awwalča		NOUN,f,Sg,HD		awwal-č-iš		STEM-F-HD
+šiḳya:		šiḳya		NOUN,m,Sg		šiḳy-a		STEM-Free
+
+
+010. ḏukkil ataḳ mōyər rayša, amrilla: «wuš ḳʕāš niḥəm!»
+010. Als die Fruchtblase platzte, sagte ich zu ihr: «Mensch, setz dich hin, laß mich sehen!»
+
+ḏukkil:		ḏukkil		SCONJ		ḏukkil		STEM
+ataḳ:		EMPTY		VERB,EMPTY				
+mōyər:		EMPTY		NOUN,EMPTY				
+rayša:		rayša		NOUN,m,Sg		rayš-a		STEM-Free
+amrilla:		amar yīmar		VERB,Iʔ,Praet,1,Sg,c,D.3fs		amr-il-la		STEM-1cs-3fs.IO
+wuš:		wrāx		INTJ,f		wuš		STEM-F
+ḳʕāš:		ḳʕōle yiḳʕēle		VERB,Imp,Sg,f		ḳʕ-āš		STEM-IPV.MS
+niḥəm:		iḥəm yiḥəm		VERB,I,Subj,1,Sg,c		n-iḥəm		1-STEM
+
+
+005. mišwille b-ann finžanō, mišwille ʕa ffōye ġawzō másalan mšakklille, w mḏ̣ayīfin bē.
+005. Man gießt es (wörtl. macht es) in die Tassen und gibt darauf Nüsse und verziert es (damit), und man bewirtet (die Gäste) damit.
+
+mišwille:		išw yišw		VERB,I,Prs,3,Pl,m,O.3ms		mišw-il-le		STEM-MP-3ms
+b:		b		PREP,Free		b		in
+ann:		hann		DET,Pl,c		ann		STEM
+finžanō:		finžōna		NOUN,m,Pl		finžan-ō		STEM-P
+mišwille:		išw yišw		VERB,I,Prs,3,Pl,m,O.3ms		mišw-il-le		STEM-MP-3ms
+ʕa:		ʕa		PREP,Free		ʕa		on
+ffōye:		ffō		NOUN,m,Pl,POSS.3ms		ff-ōy-e		STEM-P-3ms
+ġawzō:		ġawza		NOUN,m,Pl		ġawz-ō		STEM-P
+másalan:		másalan		INTJ		másalan		STEM
+mšakklille:		šakkel yšakkel		VERB,II,Prs,3,Pl,m,O.3ms		mšakkl-il-le		STEM-MP-3ms
+w:		w		CCONJ		w		and
+mḏ̣ayīfin:		ḏ̣ōyef yḏ̣ōyef		VERB,3,III,Pl,Prs,m			
+bē:		b		PREP,POSS.3ms		b-ē		in-3ms
+
+
+028. «nōz nišč nofəšṯa.»
+028. «Ich gehe eine Wasserpfeife rauchen.»
+
+nōz:		zalle yzelle		VERB,I,Prs,1,Sg,m		n-ōz		1-STEM
+nišč:		išəč yišəč		VERB,I,Subj,1,Sg,c		n-išč		1-STEM
+nofəšṯa:		nofəšṯa		NOUN,f,Sg		nofəš-ṯ-a		STEM-F-Free
+
+
+016. nmišwille ʕal-anna ġāz, w nmayṯyin kuppōyṯa w nmayṯyin maṣṣōṣča w nmayṯyin ʕolpṯis sukker w nmišwillen ḳummaynaḥ.
+016. Wir stellen ihn auf diesen Gaskocher, und wir holen ein Glas, und wir holen ein Saugstäbchen, und wir holen eine Dose mit Zucker und stellen sie vor uns hin.
+
+nmišwille:		išw yišw		VERB,I,Prs,1,Pl,m,O.3ms		n-mišw-il-le		1-STEM-FP-3ms
+ʕal:		ʕa		PREP,Free		ʕal		on
+anna:		hanna		DET,Sg,m		anna		this.M
+ġāz:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+nmayṯyin:		ayṯ yayṯ		VERB,m,1,IVy,Pl,Prs				
+kuppōyṯa:		kuppōyṯa		NOUN,f,Sg		kuppōy-ṯ-a		STEM-F-Free
+w:		w		CCONJ		w		and
+nmayṯyin:		ayṯ yayṯ		VERB,m,1,IVy,Pl,Prs				
+maṣṣōṣča:		maṣṣōṣča		NOUN,f,Sg		maṣṣōṣ-č-a		STEM-F-Free
+w:		w		CCONJ		w		and
+nmayṯyin:		ayṯ yayṯ		VERB,m,1,IVy,Pl,Prs				
+ʕolpṯis:		EMPTY		NOUN,EMPTY				
+sukker:		sukkar/sukker		NOUN,Sg,m		sukkar		STEM
+w:		w		CCONJ		w		and
+nmišwillen:		išw yišw		VERB,I,Prs,1,Pl,m,O.3fp		n-mišw-il-len		1-STEM-MP-3fp
+ḳummaynaḥ:		ḳommil		PREP,POSS.1cp		ḳummay-naḥ		before-1p
+
+
+005. xaṭərṯa aʕzmannaḥ ḥōl nislaḳ leʕle ʕa mazraʕṯa nsaʕitenne p-ḳulḳās w filō.
+005. Einmal lud uns mein Onkel ein, zu ihm hinaufzukommen in das landwirtschaftliche Anwesen, um ihm bei den Kartoffeln und den Bohnen zu helfen.
+
+xaṭərṯa:		xaṭərṯa		NOUN,f,Sg		xaṭər-ṯ-a		STEM-F-Free
+aʕzmannaḥ:		aʕzem yaʕzem		VERB,IV,Praet,3,Sg,m,O.1cp		aʕzm-an-n-aḥ		STEM-3ms-PLEO-1p
+ḥōl:		ḥōla		NOUN,m,Sg,POSS.1cs		ḥōl		STEM
+nislaḳ:		isleḳ yislaḳ		VERB,I,Subj,1,Pl,c		ni-slaḳ		1-STEM
+leʕle:		leʕle		PREP,POSS.3ms		leʕl-e		STEM
+ʕa:		ʕa		PREP,Free		ʕa		on
+mazraʕṯa:		mazraʕṯa		NOUN,f,Sg		mazraʕ-ṯ-a		STEM-F-Free
+nsaʕitenne:		sōʕet ysōʕet		VERB,III,Subj,1,Pl,c,O.3ms		n-saʕit-enn-e		1-STEM-PLEO-3ms
+p:		b		PREP,Free		p		in
+ḳulḳās:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+filō:		fīla		NOUN,m,Pl		fil-ō		STEM-P
+
+
+001. xarma raḏyille xanūnay w raḏyille ʕamlay.
+001. Den Weinberg pflügt man in (den Monaten) Dezember/Januar, und man pflügt ihn im Frühjahr.
+
+xarma:		xarma		NOUN,m,Sg		xarm-a		STEM-Free
+raḏyille:		EMPTY		VERB,EMPTY				
+xanūnay:		xanūnay		ADV,Temp		xanūnay		STEM
+w:		w		CCONJ		w		and
+raḏyille:		EMPTY		VERB,EMPTY				
+ʕamlay:		ʕamlay		ADV,Temp		ʕaml-ay		STEM-MS.INDF
+
+
+009. w ōbəl xalil ʕam-nayyarəl ʕaraḳ w əl-māza, w ayṯull lanna mšammaʕ w fartunne ʕa mluṯṯil lōḏ sahəlṯa.
+009. Und Ōbəl Xalil bereitete den Arrak vor und die Vorspeisen, und man brachte das Wachstuch und breitete es (auf dem Boden) aus, über die gesamte ebene Fläche.
+
+w:		w		CCONJ		w		and
+ōbəl:		ōbu		NOUN,m,Sg,HD		ōb-əl		STEM-HD
+xalil:		xalil		PROPN,Sg,m,PER		xalil		STEM
+ʕam:		ʕamma		AUX		ʕam		PP
+nayyarəl:		EMPTY		VERB,EMPTY				
+ʕaraḳ:		ʕaraḳ		NOUN,Sg,m		ʕaraḳ		STEM
+w:		w		CCONJ		w		and
+əl:		l		PREP,Free		əl		to
+māza:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+ayṯull:		EMPTY		VERB,EMPTY				
+lanna:		hanna		DET,Sg,m		lanna		this.M
+mšammaʕ:		mšammaʕ		NOUN,Sg,m		mšammaʕ		STEM
+w:		w		CCONJ		w		and
+fartunne:		ifrat yifrut		VERB,I,Praet,3,Pl,m,O.3ms		fart-un-n-e		STEM-3mp-PLEO-3ms
+ʕa:		ʕa		PREP,Free		ʕa		on
+mluṯṯil:		EMPTY		NOUN,EMPTY				
+lōḏ:		hōḏ		DET,Sg,f		lōḏ		this.F
+sahəlṯa:		sahəlṯa		NOUN,f,Sg		sahəl-ṯ-a		STEM-F-Free
+
+
+005. nmišwēle p-ḳoffṯa w nkamarle ḥamša šečča yūm.
+005. Ich lege es in einen Korb, und decke es fünf, sechs Tage lang zu.
+
+nmišwēle:		išw yišw		VERB,I,Prs,1,Sg,m,O.3ms		n-mišw-ē-le		1-STEM-3ms
+p:		b		PREP,Free		p		in
+ḳoffṯa:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+nkamarle:		EMPTY		VERB,EMPTY				
+ḥamša:		ḥamša		NUM,Card,m		ḥamša		five.M
+šečča:		šečča		NUM,Card,m		šečča		six.M
+yūm:		yōma		NOUN,m,ZPl		yūm		STEM
+
+
+018. amrille: «lā, bann nzill.»
+018. Ich sagte zu ihm: «Nein, ich will gehen.»
+
+amrille:		amar yīmar		VERB,Iʔ,Praet,1,Sg,c,D.3ms		amr-il-le		STEM-1cs-3ms.IO
+lā:		la		PART,Neg		lā		NEG
+bann:		batte		AUX,1,Sg,c		b-ann		STEM
+nzill:		zalle yzelle		VERB,I,Subj,1,Sg,c		n-zi-ll		1-STEM-S
+
+
+003. awwalča miččažʕin ommṯa hōxa bə-blōta — čūṯ ḥkimō.
+003. Früher litten die Leute hier im Dorf Schmerzen — es gab (ja) keine Ärzte.
+
+awwalča:		awwalča		NOUN,f,Sg		awwal-č-a		STEM-F-Free
+miččažʕin:		iččžaʕ yiččžaʕ		VERB,I8,Prs,3,Pl,m		mi-ččažʕ-in		3-STEM-MP
+ommṯa:		ommṯa		NOUN,f,Sg		omm-ṯ-a		STEM-F-Free
+hōxa:		hōxa		ADV,Loc		hōxa		STEM
+bə:		b		PREP,Free		bə		in
+blōta:		blōta		NOUN,m,Sg		blōt-a		STEM-Free
+čūṯ:		čūṯ		PART,Neg		čūṯ		STEM
+ḥkimō:		ḥkīma		NOUN,Pl,m				
+
+
+016. ṯill ayṯiččil lōx xšurīṯa w zabničča, w ayṯiṯ maḳəḏḥa, w ṯiḳniṯ nmišwēla ḳiḏḥō ḳiḏḥō l-ōx xšurīṯa.
+016. Ich ging her, holte den Weberbalken und kaufte ihn, und ich brachte einen Bohrer und machte lauter Bohrlöcher in diesen Balken.
+
+ṯill:		ṯōle yṯēle		VERB,Praet,1,Sg,c		ṯ-ill		STEM-1s
+ayṯiččil:		EMPTY		VERB,EMPTY				
+lōx:		hōḏ		DET,Sg,f		lōx		this.F
+xšurīṯa:		xšurīṯa		NOUN,f,Sg		xšur-īṯa		STEM
+w:		w		CCONJ		w		and
+zabničča:		izban yizbun		VERB,I,Praet,1,Sg,c,O.3fs		zabn-ič-č-a		STEM-1s-PLEO-3fs
+w:		w		CCONJ		w		and
+ayṯiṯ:		ayṯ yayṯ		VERB,IVy,Praet,1,Sg,c		ayṯ-iṯ		STEM-1s
+maḳəḏḥa:		maḳəḏḥa		NOUN,m,Sg		maḳəḏḥ-a		STEM-Free
+w:		w		CCONJ		w		and
+ṯiḳniṯ:		iṯḳen yiṯḳan		VERB,I,Praet,1,Sg,c		ṯiḳn-iṯ		STEM-1s
+nmišwēla:		išw yišw		VERB,I,Prs,1,Sg,m,O.3fs		n-mišw-ē-la		1-STEM-3fs
+ḳiḏḥō:		ḳeḏḥa		NOUN,m,Pl		ḳiḏḥ-ō		STEM-P
+ḳiḏḥō:		ḳeḏḥa		NOUN,m,Pl		ḳiḏḥ-ō		STEM-P
+l:		l		PREP,Free		l		to
+ōx:		hōḏ		DET,Sg,f		ōx		STEM
+xšurīṯa:		xšurīṯa		NOUN,f,Sg		xšur-īṯa		STEM
+
+
+006. baʕdēn nḳatrilla m-ṭarfa p-ḥūṭa.
+006. Dann binden wir außen (wörtl. am Rand) eine Schnur herum.
+
+baʕdēn:		baʕdēn		ADV,Temp		baʕdēn		STEM
+nḳatrilla:		iḳtar yiḳtur		VERB,I,Prs,1,Pl,m,O.3fs		n-ḳatr-il-la		1-STEM-MP-3fs
+m:		m		PREP,Free		m		from
+ṭarfa:		ṭarfa		NOUN,m,Sg		ṭarf-a		STEM-Free
+p:		b		PREP,Free		p		in
+ḥūṭa:		ḥūṭa		NOUN,m,Sg		ḥūṭ-a		STEM-Free
+
+
+090. ʕayniṯ ana, aʕžbačč ʕezza, nḳōyem mamelle: «hōʕ ʕezza p-ṯmēn warḳan. ayṯa kmōlča!»
+090. Ich schaute, und die Ziege gefiel mir, daher sagte ich zu ihm: «Diese Ziege (nehme ich) für achtzig Lire. Gib mir den Rest!»
+
+ʕayniṯ:		ʕayn yʕayn		VERB,IVy,Praet,1,Sg,c		ʕayn-iṯ		STEM-1s
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+aʕžbačč:		aʕžeb yaʕžeb		VERB,IV,Praet,3,Sg,f,O.1cs		aʕžb-ač-č		STEM-3fs-PLEO
+ʕezza:		ʕezza		NOUN,m,Sg		ʕezz-a		STEM-Free
+nḳōyem:		aḳam yīḳum		VERB,IIw,Prs,1,Sg,m		n-ḳōyem		1-STEM
+mamelle:		amar yīmar		VERB,3,D.3ms,Iʔ,Prs,Sg,m		mamel-le		STEM-3ms.IO
+hōʕ:		hōḏ		DET,Sg,f		hōʕ		this.F
+ʕezza:		ʕezza		NOUN,m,Sg		ʕezz-a		STEM-Free
+p:		b		PREP,Free		p		in
+ṯmēn:		ṯmēn		NUM,Card		ṯmēn		eighty
+warḳan:		warəḳṯa		NOUN,f,ZPl		warḳ-an		STEM-NUM.F
+ayṯa:		ayṯ yayṯ		VERB,IVy,Imp,Sg,m		ayṯ-a		STEM-IPV.m
+kmōlča:		kmōlča		NOUN,f,Sg		kmōl-č-a		STEM-F-Free
+
+
+010. ōmar: «wrāx, la yʕaṣṣrunnaḥ!»
+010. Er sagte: «Mensch, nicht daß sie uns beschimpfen (wörtl.: ausquetschen)!»
+
+ōmar:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m		ōmar		STEM
+wrāx:		wrāx		INTJ,m		wr-āx		STEM-M
+la:		la		PART,Neg		la		NEG
+yʕaṣṣrunnaḥ:		EMPTY		VERB,EMPTY				
+
+
+008. amrille: «wrāx, ana ču nfakker nḳaṭʕiṯ ʕa tarba ġēr l-emmat šarikiččax.»
+008. Ich sagte zu ihm (zu Yaws): «Mensch, ich kann mich nicht erinnern, daß ich jemals so auf dem Weg festsaß, außer seit ich mir dich zum Partner genommen habe.»
+
+amrille:		amar yīmar		VERB,Iʔ,Praet,1,Sg,c,D.3ms		amr-il-le		STEM-1cs-3ms.IO
+wrāx:		wrāx		INTJ,m		wr-āx		STEM-M
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+ču:		ču		PART,Neg		ču		NEG
+nfakker:		fakkar yfakkar		VERB,II,Perf,1,Sg,m		n-fakker		1-STEM
+nḳaṭʕiṯ:		inəḳṭaʕ yinəḳṭaʕ		VERB,I7,Praet,1,Sg,c		nḳaṭʕ-iṯ		STEM-1s
+ʕa:		ʕa		PREP,Free		ʕa		on
+tarba:		tarba		NOUN,m,Sg		tarb-a		STEM-Free
+ġēr:		ġēr		PREP		ġēr		STEM
+l:		l		PREP,Free		l		to
+emmat:		emmat		ADV,Temp		emmat		STEM
+šarikiččax:		šōrek yšōrek		VERB,III,Praet,1,Sg,c,O.2ms		šarik-ič-č-ax		STEM-1s-PLEO-2ms
+
+
+039. bess yḥassel ramla xulle sawa, yīb iṯḳen felkiš šaʕṯa, yaʕni ʕisər w ḥammeš miṣrōyan.
+039. Sobald der ganze Sand herabgerieselt (wörtl.: zu Ende) war, war eine halbe Stunde vergangen, also fünfundzwanzig miṣrōyṯa.
+
+bess:		bess		PRON		bess		STEM
+yḥassel:		ḥassel yḥassel		VERB,II,Subj,3,Sg,m		y-ḥassel		3m-STEM
+ramla:		ramla		NOUN,m,Sg		raml-a		STEM-Free
+xulle:		xull		PRON,Tot,POSS.3ms		xull-e		STEM
+sawa:		sawa		ADV,Mod		sawa		STEM
+yīb:		yīb		AUX,Subj,3,Sg,m		y-īb		3M-STEM
+iṯḳen:		iṯḳen yiṯḳan		VERB,I,Praet,3,Sg,m		iṯḳen		STEM
+felkiš:		felka		NOUN,m,Sg,HD		felk-iš		STEM-HD
+šaʕṯa:		šaʕṯa		NOUN,f,Sg		šaʕ-ṯ-a		STEM-F-Free
+yaʕni:		yaʕni		INTJ		yaʕni		HES
+ʕisər:		ʕisər		NUM,Card		ʕisər		twenty
+w:		w		CCONJ		w		and
+ḥammeš:		ḥammeš		NUM,Card,f		ḥammeš		five.F
+miṣrōyan:		miṣrōyṯa		NOUN,f,ZPl		miṣrōy-ṯ-a		SYEM-F-Free
+
+
+004. w ġufərlēḥ ḥṭiyōṯaḥ, // ex min nġafərlill ti maḥṭ ʕimmaynaḥ.
+004. Und vergib uns unsere Sünden, // wie wir denjenigen vergeben, die uns gegenüber gesündigt haben.
+
+w:		w		CCONJ		w		and
+ġufərlēḥ:		iġfar yiġfur		VERB,I,Imp,3,Sg,m,Dopp.1cp		ġufər-lē-ḥ		STEM-3ms-1P.IO
+ḥṭiyōṯaḥ:		ḥṭīṯa		NOUN,f,Pl,POSS.1cp		ḥṭi-yō-ṯ-aḥ		STEM-P-F-1P
+ex:		ex		ADV,Mod		ex		STEM
+min:		INCORRECT		SCONJ,INCORRECT		m-in		STEM-HD
+nġafərlill:		iġfar yiġfur		VERB,I,Prs,1,Pl,m,O.1cs		n-ġafər-lil-l		1-STEM-PLEO-1s
+ti:		ti		PRON,Rel		ti		REL
+maḥṭ:		EMPTY		VERB,EMPTY				
+ʕimmaynaḥ:		ʕemmil		PREP,POSS.1cp		ʕimmay-naḥ		with-1p
+
+
+003. mayṯyin ḥiṭṭō w xušnō w sʕarō w zarʕillun p-ṣaḥnō zʕūrin xann, ḥetta yirbun.
+003. Sie holen Weizen und Wicken und Gerste und säen sie in so kleine Teller, damit sie wachsen.
+
+mayṯyin:		ayṯ yayṯ		VERB,IVy,Prs,3,Pl,m		ma-yṯy-in		3-STEM-MP
+ḥiṭṭō:		ḥiṭṭō		NOUN,f,Pl		ḥiṭṭ-ō		STEM-P
+w:		w		CCONJ		w		and
+xušnō:		INCORRECT		NOUN,INCORRECT		xušn-ō		STEM-P
+w:		w		CCONJ		w		and
+sʕarō:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+zarʕillun:		EMPTY		VERB,EMPTY				
+p:		b		PREP,Free		p		in
+ṣaḥnō:		ṣaḥna		NOUN,m,Pl		ṣaḥn-ō		STEM-P
+zʕūrin:		iẓʕur/izʕur		ADJ,Indef,Pl,m,3		zʕūr-in		STEM-MP.INDF
+xann:		xann		ADV,Mod		xann		STEM
+ḥetta:		ḥetta/ḥatta		SCONJ		ḥetta		STEM
+yirbun:		ireb yīrab		VERB,Iy,Subj,3,Pl,m		yi-rb-un		3-STEM-MP
+
+
+014. rēbeʕ ḥašoppa m-ṣawma ušme ḥašoppa ti zahra w warta.
+014. Der vierte Sonntag der Fastenzeit hat den Namen “Sonntag der Blüten und Blumen”.
+
+rēbeʕ:		rēbeʕ		NUM,Ord		rēbeʕ		fourth
+ḥašoppa:		ḥašoppa		NOUN,m,Sg		ḥašopp-a		STEM-Free
+m:		m		PREP,Free		m		from
+ṣawma:		ṣawma		NOUN,m,Sg		ṣawm-a		STEM-Free
+ušme:		ešma/ušma		NOUN,m,Sg,POSS.3ms		ušm-e		STEM-3ms
+ḥašoppa:		ḥašoppa		NOUN,m,Sg		ḥašopp-a		STEM-Free
+ti:		ti		PRON,Rel		ti		REL
+zahra:		zahra		NOUN,m,Sg		zahr-a		STEM-Free
+w:		w		CCONJ		w		and
+warta:		warta		NOUN,m,Sg		wart-a		STEM-Free
+
+
+009. bess yḥassel xenša w čḥassel ṣlōṯa, xett mražīʕin tōpkin ext_awwal yōma lə-ʕrōba.
+009. Wenn der Gedenkgottesdienst zu Ende ist, und wenn das Gebet zu Ende ist, machen sie sich wieder daran, den Reigen zu tanzen, wie am Abend des ersten Tages.
+
+bess:		bess		PRON		bess		STEM
+yḥassel:		ḥassel yḥassel		VERB,II,Subj,3,Sg,m		y-ḥassel		3m-STEM
+xenša:		xenša		NOUN,m,Sg		xenš-a		STEM-Free
+w:		w		CCONJ		w		and
+čḥassel:		ḥassel yḥassel		VERB,II,Subj,3,Sg,f		č-ḥassel		3f-STEM
+ṣlōṯa:		ṣlōṯa		NOUN,f,Sg		ṣlō-ṯ-a		STEM-F-Free
+xett:		xett		ADV,Mod		xett		STEM
+mražīʕin:		rōžaʕ yrōžaʕ		VERB,III,Prs,3,Pl,m		mražīʕ-in		STEM-MP
+tōpkin:		itbek yitbuk		VERB,I,Prs,3,Pl,m		tōpk-in		STEM-MP
+ext:		ex		ADV,Mod		
+awwal:		awwal		NUM,Ord		
+yōma:		yōma		NOUN,m,Sg		yōm-a		STEM-Free
+lə:		l		PREP,Free		lə		to
+ʕrōba:		ʕrōba		NOUN,m,Sg		ʕrōb-a		STEM-Free
+
+
+008. m-mar lawandīyus ṣlōṯa l-ʕāde.
+008. In (der Kirche des) heiligen Lavandius (findet) das übliche Gebet (statt).
+
+m:		b		PREP,Free		m		in
+mar:		mar/marč		ADJ		mar		STEM
+lawandīyus:		lawandīyus		PROPN,Sg,m,PER		lawandīyus		STEM
+ṣlōṯa:		ṣlōṯa		NOUN,f,Sg		ṣlō-ṯ-a		STEM-F-Free
+l:		l		PREP,Free		l		to
+ʕāde:		EMPTY		ADJ,EMPTY				
+
+
+003. hanna yōma, yōmlə sčašhet bē hanna ḳattēša šwunne ʕēḏa lēle.
+003. Das ist der Tag, an dem dieser Heilige den Märtyrertod fand, und (daher haben sie diesen Tag) zu einem Fest(tag) für ihn gemacht.
+
+hanna:		hanna		DET,Sg,m		hanna		this.M
+yōma:		yōma		NOUN,m,Sg		yōm-a		STEM-Free
+yōmlə:		yōma		NOUN,m,Sg,HD		yōm-lə		STEM-HD
+sčašhet:		sčašhet yisčašhet		VERB,I10,Praet,3,Sg,m		sčašhet		STEM
+bē:		b		PREP,POSS.3ms		b-ē		in-3ms
+hanna:		hanna		DET,Sg,m		hanna		this.M
+ḳattēša:		ḳattēša		NOUN,m,Sg		ḳattēš-a		STEM-Free
+šwunne:		išw yišw		VERB,I,Praet,3,Pl,m,O.3ms		šw-un-n-e		STEM-3mp-PLEO-3ms
+ʕēḏa:		ʕēḏa		NOUN,m,Sg		ʕēḏ-a		STEM-Free
+lēle:		l		PREP,POSS.3ms		l-ēle		to-3ms
+
+
+045. ṯōḳen tōḳeḳ naḳōsəl mar_ilyas w naḳōsəl berkṯa w ġayre w sawōye l-ḥāṣlo.
+045. Die Glocke (der Kirche zum) heiligen Elias beginnt zu läuten und die Glocke des Klosters zur heiligen Thekla und weitere andere kurz und gut.
+
+ṯōḳen:		iṯḳen yiṯḳan		VERB,I,Prs,3,Sg,m		ṯōḳen		STEM
+tōḳeḳ:		EMPTY		VERB,EMPTY				
+naḳōsəl:		naḳōsa		NOUN,m,Sg,HD		naḳōs-əl		STEM-HD
+mar:		mar/marč		ADJ				
+ilyas:		ilyas		PROPN,PER,Sg,m				
+w:		w		CCONJ		w		and
+naḳōsəl:		naḳōsa		NOUN,m,Sg,HD		naḳōs-əl		STEM-HD
+berkṯa:		berəkṯa		PROPN,Sg,f,PER		berkṯa		STEM
+w:		w		CCONJ		w		and
+ġayre:		ġayr		PRON,3,Sg,m		ġayr-e		STEM
+w:		w		CCONJ		w		and
+sawōye:		EMPTY		ADJ,EMPTY				
+l:		l		PREP,Free		l		to
+ḥāṣlo:		EMPTY		ADV,EMPTY				
+
+
+007. hann mašəʕlō ṯōḳnin ḳīsa, ṭūle mett iṯər mičər, šammen xann ḳalles, w b-rayšil ḳīsa ōṯ ʕolpṯa m-ḥatīta aw ṣōža.
+007. Diese Fackeln bestehen aus einem Stock, der eine Länge von etwa zwei Metern hat und so ein bißchen dick ist, und auf der Spitze des Stocks befindet sich eine Dose aus Eisen oder Blech.
+
+hann:		hann		DET,Pl,c		hann		STEM
+mašəʕlō:		mašəʕla		NOUN,m,Pl		mašəʕl-ō		STEM-P
+ṯōḳnin:		iṯḳen yiṯḳan		VERB,I,Prs,3,Pl,m		ṯōḳn-in		STEM-MP
+ḳīsa:		ḳīsa		NOUN,m,Sg		ḳīs-a		STEM-Free
+ṭūle:		ṭūla		NOUN,m,Sg,POSS.3ms		ṭūl-e		STEM-3ms
+mett:		mett		PRON,Indef		mett		STEM
+iṯər:		iṯər		NUM,Card,m		iṯər		two.M
+mičər:		mečra		NOUN,m,ZPl		mičər		STEM
+šammen:		šammen		ADJ,Indef,Sg,m,3		šammen		STEM
+xann:		xann		ADV,Mod		xann		STEM
+ḳalles:		ḳalles		ADV,Mod		ḳalles		STEM
+w:		w		CCONJ		w		and
+b:		b		PREP,Free		b		in
+rayšil:		rayša		NOUN,m,Sg,HD		rayš-il		STEM-HD
+ḳīsa:		ḳīsa		NOUN,m,Sg		ḳīs-a		STEM-Free
+ōṯ:		ōṯ		AUX		ōṯ		STEM
+ʕolpṯa:		EMPTY		NOUN,EMPTY				
+m:		m		PREP,Free		m		from
+ḥatīta:		ḥatīta		NOUN,m,Sg		ḥatīt-a		STEM-Free
+aw:		aw		CCONJ		aw		or
+ṣōža:		ṣōža		NOUN,m,Sg		ṣōž-a		STEM-Free
+
+
+035. w hōxa atar mballeš... šaġlōṯa ḥrinyōṯa.
+035. Und hier nun beginnt... andere Sachen (d. h. der Gottesdienst).
+
+w:		w		CCONJ		w		and
+hōxa:		hōxa		ADV,Loc		hōxa		STEM
+atar:		atar		AUX		atar		STEM
+mballeš:		balleš yballeš		VERB,II,Prs,3,Sg,m		mballeš		STEM
+šaġlōṯa:		šaġəlṯa		NOUN,f,Pl		šaġl-ō-ṯ-a		STEM-P-F-Free
+ḥrinyōṯa:		ḥrēna		PRON,Pl,f		ḥr-inyōṯa		STEM
+
+
+004. mḥáttitin yōma ti batte yišwull awwal ʔurbāne bē.
+004. Sie legen einen Tag fest, an dem sie die erste Kommunion durchführen wollen.
+
+mḥáttitin:		EMPTY		VERB,EMPTY				
+yōma:		yōma		NOUN,m,Sg		yōm-a		STEM-Free
+ti:		ti		PRON,Rel		ti		REL
+batte:		batte		AUX,3,Sg,m		batt-e		STEM
+yišwull:		EMPTY		VERB,EMPTY				
+awwal:		awwal		NUM,Ord		awwal		first
+ʔurbāne:		EMPTY		NOUN,EMPTY				
+bē:		b		PREP,POSS.3ms		b-ē		in-3ms
+
+
+033. čbaḳḳaṯ xann ṭūlčil ḥayōṯa.
+033. Sie blieb so ihr ganzes Leben lang.
+
+čbaḳḳaṯ:		EMPTY		VERB,EMPTY				
+xann:		xann		ADV,Mod		xann		STEM
+ṭūlčil:		ṭūlča		NOUN,f,Sg,HD		ṭūl-č-il		STEM-F-HD
+ḥayōṯa:		ḥayōṯa		NOUN,f,Sg		ḥayōṯ-a		STEM-Free
+
+
+005. ōmar: «ē!»
+005. Sie sagte: «Ja!»
+
+ōmar:		amar yīmar		VERB,Iʔ,Praet,3,Sg,f		ōmar		STEM
+ē:		ē		PART		ē		yes
+
+
+013. «ču nimkarr, imeṯ ḏōḏ.»
+013. «Ich kann nicht, mein Onkel ist gestorben.»
+
+ču:		ču		PART,Neg		ču		NEG
+nimkarr:		EMPTY		VERB,EMPTY				
+imeṯ:		ameṯ yīmuṯ		VERB,IIy,Perf,3,Sg,m		imeṯ		STEM
+ḏōḏ:		ḏōḏa		NOUN,INCORRECT		ḏōḏ		STEM
+
+
+011. amerlun: «ḥmōn hōxa ġapplə šbabō!»
+011. Er sagte zu ihnen: «Schaut hier bei den Nachbarn nach!»
+
+amerlun:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3mp		amer-lun		STEM-3mp.IO
+ḥmōn:		iḥəm yiḥəm		VERB,I,Imp,Pl,m		ḥm-ōn		STEM-IPV.mp
+hōxa:		hōxa		ADV,Loc		hōxa		STEM
+ġapplə:		ġappil		PREP,Free		ġapplə		STEM
+šbabō:		šbōba		NOUN,m,Pl		šbab-ō		STEM-P
+
+
+004. ōmar: «ʕṣofra.»
+004. Er sagte: «Morgen früh.»
+
+ōmar:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m		ōmar		STEM
+ʕṣofra:		ʕṣofra		NOUN,m,Sg		ʕṣofr-a		STEM-Free
+
+
+010. «hačč mō čayyeṯ?»
+010. «Was hast du mitgenommen?»
+
+hačč:		hačč		PRON,Pers,2,Sg,m		hačč		STEM
+mō:		mō		PRON,Inter		mō		what
+čayyeṯ:		ayṯ yayṯ		VERB,IVy,Perf,2,Sg,m		č-ayyeṯ		2-STEM
+
+
+012. aḳam alṭun rayḥan batte yṣōraʕ hū w ayyub.
+012. Dann wollte Alṭun Rayḥan einen Ringkampf machen, er und Ayyub.
+
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳam		STEM
+alṭun:		alṭun		PROPN		alṭun		STEM
+rayḥan:		rayḥan		PROPN		rayḥan		STEM
+batte:		batte		AUX,3,Sg,m		batt-e		STEM
+yṣōraʕ:		ṣōraʕ yṣōraʕ		VERB,III,Subj,3,Sg,m		y-ṣōraʕ		3m-STEM
+hū:		hū		PRON,Pers,3,Sg,m		hū		STEM
+w:		w		CCONJ		w		and
+ayyub:		ayyub		PROPN,Sg,m,PER		ayyub		STEM
+
+
+003. anaḥ šimʕinnaḥ keləmṯa, affiččun ču tayyirill balayy w ḳōmiṯ zlill ščiččil ḥamra.
+003. Wir hörten das Wort, und ich wartete ab, bis sie sich mir nicht zuwandten, dann ging ich und trank den Wein.
+
+anaḥ:		anaḥ		PRON,Pers,1,Pl		anaḥ		STEM
+šimʕinnaḥ:		išmeʕ yišmaʕ		VERB,I,Praet,1,Pl,c		šimʕ-innaḥ		STEM-1p
+keləmṯa:		keləmṯa		NOUN,f,Sg		keləm-ṯ-a		STEM-F-Free
+affiččun:		EMPTY		VERB,EMPTY				
+ču:		ču		PART,Neg		ču		NEG
+tayyirill:		EMPTY		VERB,EMPTY				
+balayy:		bōla		NOUN,m,Pl,POSS.3cp		balay-y		STEM-3P
+w:		w		CCONJ		w		and
+ḳōmiṯ:		aḳam yīḳum		VERB,IIw,Praet,1,Sg,c		ḳōm-iṯ		STEM-1s
+zlill:		zalle yzelle		VERB,I,Praet,1,Sg,c		z-lill		STEM-1s
+ščiččil:		išəč yišəč		VERB,I,Praet,1,c,Sg,DOM		šč-ič-č-il		STEM-1s-PLEO-DOM
+ḥamra:		ḥamra		NOUN,m,Sg		ḥamr-a		STEM-Free
+
+
+001. xaṭərṯa nībin nsallīḳin m-dūma, nassīḳin banadōra mxaramča l-šarāb.
+001. Einmal kamen wir von Dūma herauf, wir brachten Tomaten herauf (ins) Dorf für (Tomaten)mark.
+
+xaṭərṯa:		xaṭərṯa		NOUN,f,Sg		xaṭər-ṯ-a		STEM-F-Free
+nībin:		ōb		AUX,1,Pl,m		n-īb-in		1-be-MP
+nsallīḳin:		isleḳ yislaḳ		VERB,I,Perf,1,Pl,m		n-sallīḳ-in		1-STEM-MP
+m:		m		PREP,Free		m		from
+dūma:		dūma		PROPN,LOC		dūma		STEM
+nassīḳin:		EMPTY		VERB,EMPTY				
+banadōra:		banadōra		NOUN,m,Sg		banadōr-a		STEM-Free
+mxaramča:		maxrōmča		PREP		maxrōmča		because
+l:		l		PREP,Free		l		to
+šarāb:		EMPTY		NOUN,EMPTY				
+
+
+002. bess ḥmiččun ana — sakrōnin —, ḳōmiṯ sakkriṯ w šamṭiṯ minnayy.
+002. Sobald ich sie sah — also daß sie betrunken waren —, schloß ich (den Laden) und flüchtete vor ihnen.
+
+bess:		bess		PRON		bess		STEM
+ḥmiččun:		iḥəm yiḥəm		VERB,I,Praet,1,Sg,c,O.3mp		ḥm-ič-č-un		STEM-1s-PLEO-3mp
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+sakrōnin:		sakran		ADJ,Indef,Pl,m,3		sakrōn-in		STEM-MP.INDF
+ḳōmiṯ:		aḳam yīḳum		VERB,IIw,Praet,1,Sg,c		ḳōm-iṯ		STEM-1s
+sakkriṯ:		sakkar ysakkar		VERB,II,Praet,1,Sg,c		sakkr-iṯ		STEM-1s
+w:		w		CCONJ		w		and
+šamṭiṯ:		išmaṭ yišmuṭ		VERB,I,Praet,1,Sg,c		šamṭ-iṯ		STEM-1s
+minnayy:		m		PREP,POSS.3cp		minnay-y		from-3P
+
+
+011. w haṯinn aʕleḳ b baʕḏ̣inn w anaḥ hōxa nḏ̣ōḥkin.
+011. Und jene gerieten aneinander, und wir hier lachten.
+
+w:		w		CCONJ		w		and
+haṯinn:		haṯinn		DET,Pl,c		haṯinn		STEM
+aʕleḳ:		aʕleḳ yaʕleḳ		VERB,IV,Praet,3,Pl,c		aʕleḳ		STEM
+b:		b		PREP,Free		b		in
+baʕḏ̣inn:		baʕḏ̣a		PRON,Refl,POSS.3mp		baʕḏ̣-inn		STEM-3mp
+w:		w		CCONJ		w		and
+anaḥ:		anaḥ		PRON,Pers,1,Pl		anaḥ		STEM
+hōxa:		hōxa		ADV,Loc		hōxa		STEM
+nḏ̣ōḥkin:		iḏ̣ḥek yiḏ̣ḥuk		VERB,1,I,Pl,Prs,m				
+
+
+040. batte yizʕuḳ «yā ʕaḏra», lorkaʕ infeḳ ḥesse.
+040. Er wollte rufen: «Oh Jungfrau (Maria)», aber seine Stimme blieb ihm im Halse stecken (wörtl. kam überhaupt nicht heraus).
+
+batte:		batte		AUX,3,Sg,m		batt-e		STEM
+yizʕuḳ:		izʕaḳ yizʕuḳ		VERB,I,Subj,3,Sg,m		yi-zʕuḳ		3M-STEM
+yā:		ya		PART		yā		STEM
+ʕaḏra:		EMPTY		NOUN,EMPTY				
+lorkaʕ:		lorkaʕ		PART		lorkaʕ		STEM
+infeḳ:		infeḳ yinfuḳ		VERB,In,Praet,3,Sg,m		infeḳ		STEM
+ḥesse:		ḥessa		NOUN,m,Sg,POSS.3ms		ḥess-e		STEM-3ms
+
+
+001. wōṯ l-aḥḥaḏ ġabrōna eččṯa, čuṯ šunīṯa aḥla menna b-ʕōlma.
+001. Es war einmal ein Mann, der hatte eine Frau, wie es keine schönere auf der Welt gab.
+
+wōṯ:		wōṯ		AUX		wōṯ		STEM
+l:		l		PREP,Free		l		to
+aḥḥaḏ:		aḥḥaḏ		NUM,Card,m		aḥḥaḏ		one.M
+ġabrōna:		ġabrōna		NOUN,m,Sg		ġabrōn-a		STEM-Free
+eččṯa:		eččṯa		NOUN,f,Sg		ečč-ṯa		STEM-Free
+čuṯ:		čūṯ		PART,Neg				
+šunīṯa:		šunīṯa		NOUN,f,Sg		šun-īṯa		STEM
+aḥla:		iḥəl		ADJ,Elat		aḥla		STEM
+menna:		m		PREP,POSS.3fs		menn-a		from-3fs
+b:		b		PREP,Free		b		in
+ʕōlma:		ʕōlma		NOUN,m,Sg		ʕōlm-a		STEM-Free
+
+
+004. yōma mn-ann yumō infeḳ ōbəl yawse ʕa ʕarḳūba ti baʕʕeḏ ḥetta yayṯ ḳalles ḏlūḳa, ḳalles xšūra, willa išmeʕ ḥessa.
+004. Eines Tages ging Josephs Vater hinaus auf einen Berg, der weit weg war, um ein bißchen Brennholz zu holen, etwas Holz, da hörte er eine Stimme.
+
+yōma:		yōma		NOUN,m,Sg		yōm-a		STEM-Free
+mn:		m		PREP,Free		mn		from
+ann:		hann		DET,Pl,c		ann		STEM
+yumō:		yōma		NOUN,m,Pl		yum-ō		STEM-P
+infeḳ:		infeḳ yinfuḳ		VERB,In,Praet,3,Sg,m		infeḳ		STEM
+ōbəl:		ōbu		NOUN,m,Sg,HD		ōb-əl		STEM-HD
+yawse:		yawse		PROPN,Sg,m,PER		yawse		STEM
+ʕa:		ʕa		PREP,Free		ʕa		on
+ʕarḳūba:		ʕarḳūba		NOUN,m,Sg		ʕarḳūb-a		STEM-Free
+ti:		ti		PRON,Rel		ti		REL
+baʕʕeḏ:		baʕʕeḏ		ADJ,Indef,Sg,m,3		baʕʕeḏ		STEM
+ḥetta:		ḥetta/ḥatta		SCONJ		ḥetta		STEM
+yayṯ:		ayṯ yayṯ		VERB,IVy,Subj,3,Sg,m		y-ayṯ		3M-STEM
+ḳalles:		ḳalles		ADV,Mod		ḳalles		STEM
+ḏlūḳa:		ḏlūḳa		NOUN,m,Sg		ḏlūḳ-a		STEM-Free
+ḳalles:		ḳalles		ADV,Mod		ḳalles		STEM
+xšūra:		xšūra		NOUN,m,Sg		xšūr-a		STEM-Free
+willa:		willa/walla		ADV,Mod		willa		STEM
+išmeʕ:		išmeʕ yišmaʕ		VERB,I,Praet,3,Sg,m		išmeʕ		STEM
+ḥessa:		ḥessa		NOUN,m,Sg		ḥess-a		STEM-Free
+
+
+354. «ana mann napplēle!»
+354. «Ich will ihn ihm geben!»
+
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+mann:		batte		AUX,1,Sg,c		m-ann		STEM
+napplēle:		EMPTY		VERB,EMPTY				
+
+
+091. amrōle: «ana ḳiṣəṯ xāāānn xāāānn xāāānn. affḳanni bnōṯəl ḥōlčax, aḳʕanni p-šimša.
+091. Sie sagte zu ihm: «Mein Geschichte ist so und so und so. Deine Cousinen mütterlicherseits haben mich herausgeholt und in die Sonne gestellt.
+
+amrōle:		amar yīmar		VERB,Iʔ,Prs,3,Sg,f,D.3ms		amrō-le		STEM-3ms.IO
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+ḳiṣəṯ:		EMPTY		NOUN,EMPTY				
+xāāānn:		xann		ADV,Mod		xāāānn		STEM
+xāāānn:		xann		ADV,Mod		xāāānn		STEM
+xāāānn:		xann		ADV,Mod		xāāānn		STEM
+affḳanni:		affeḳ yaffeḳ		VERB,IV,Praet,3,Pl,f,O.1cs		affḳ-an-n-i		STEM-3fp-PLEO-1s
+bnōṯəl:		berča		NOUN,f,Pl,HD		bn-ō-ṯ-əl		STEM-P-F-HD
+ḥōlčax:		ḥōlča		NOUN,f,Sg,POSS.2ms		ḥōl-č-ax		STEM-F-2ms
+aḳʕanni:		aḳəʕ yaḳəʕ		VERB,IVy,Praet,3,Pl,f,O.1cs		aḳʕ-an-n-i		STEM-3fp-PLEO-1s
+p:		b		PREP,Free		p		in
+šimša:		šimša		NOUN,m,Sg		šimš-a		STEM-Free
+
+
+035. amrilla: la, atʕāy aʕle!
+035. Ich sagte zu ihr: Nein, verwünsche ihn!
+
+amrilla:		amar yīmar		VERB,Iʔ,Praet,1,Sg,c,D.3fs		amr-il-la		STEM-1cs-3fs.IO
+la:		la		PART,Neg		la		NEG
+atʕāy:		EMPTY		VERB,EMPTY				
+aʕle:		ʕa		PREP,POSS.3ms		aʕl-e		on-3ms
+
+
+003. amella: «mō bann niščġel?»
+003. Er sagte zu ihr: «Was soll ich arbeiten?»
+
+amella:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3fs		amel-la		STEM-3fs.IO
+mō:		mō		PRON,Inter		mō		what
+bann:		batte		AUX,1,Sg,c		b-ann		STEM
+niščġel:		iščġel yiščġel		VERB,I8,Subj,1,Sg,c		ni-ščġel		1-STEM
+
+
+012. wōb ʕam-fakkar yḳuṭlenne, bess la irəṣ.
+012. Er dachte daran, sie zu töten, konnte es aber nicht.
+
+wōb:		wōb		AUX,3,Sg,m		w-ōb		3ms-be
+ʕam:		ʕamma		AUX		ʕam		PP
+fakkar:		fakkar yfakkar		VERB,II,Praet,3,Sg,m		fakkar		STEM
+yḳuṭlenne:		iḳṭal yiḳṭul		VERB,INCORRECT		y-ḳuṭl-enn-e		3-STEM-PLEO-3ms
+bess:		bess		PRON		bess		STEM
+la:		la		PART,Neg		la		NEG
+irəṣ:		EMPTY		VERB,EMPTY				
+
+
+021. amrōla: «uxxul ma čmaḥəḳya čaffeḳ m-ṯimmiš žawəhrōṯa!»
+021. Er (der Sommer oder der Winter) sagte: «Jedesmal, wenn du sprichst, sollen aus deinem Mund Edelsteine fallen!»
+
+amrōla:		amar yīmar		VERB,Iʔ,Prs,3,Sg,f,D.3fs		amrō-la		STEM-3fs.IO
+uxxul:		uxxul		PRON,Tot		uxxul		STEM
+ma:		ma		SCONJ		ma		STEM
+čmaḥəḳya:		EMPTY		VERB,EMPTY				
+čaffeḳ:		affeḳ yaffeḳ		VERB,INCORRECT		ča-ffeḳ		2-STEM
+m:		m		PREP,Free		m		from
+ṯimmiš:		ṯemma		NOUN,m,Sg,POSS.2fs		ṯimm-iš		STEM-2fs
+žawəhrōṯa:		žawharča		NOUN,f,Pl		žawəhr-ō-ṯ-a		STEM-P-F-Free
+
+
+007. sčahtaṯ ʕal_eḥḏa, ḳōyma hōḏ amralla: «ṭalpiš ġapp ana. šarṭōš hann arpʕa ana nwaffīḳa ʕlayy w nraṣṣīya bōn.»
+007. Sie fand den Weg zu einer (Frau), und diese sagte zu ihr: «Deinen Wunsch kann ich erfüllen (wörtl.: ist bei mir). Deinen vier Bedingungen stimme ich zu und erkläre mich mit ihnen einverstanden.»
+
+sčahtaṯ:		EMPTY		VERB,EMPTY				
+ʕal:		ʕa		PREP,Free		
+eḥḏa:		eḥḏa		NUM,Card,f		
+ḳōyma:		aḳam yīḳum		VERB,IIw,Prs,3,Sg,f		ḳōym-a		STEM-3
+hōḏ:		hōḏ		DET,Sg,f		hōḏ		this.F
+amralla:		amar yīmar		VERB,Iʔ,Prs,3,Sg,f,D.3fs		amral-la		STEM-3fs.IO
+ṭalpiš:		ṭalpa		NOUN,m,Sg,POSS.2fs		ṭalp-iš		STEM-2fs
+ġapp:		ġappil		PREP,POSS.1cs		ġapp		STEM
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+šarṭōš:		šarṭa		NOUN,m,Pl,POSS.2fs		šarṭ-ō-š		STEM-P-2fs
+hann:		hann		DET,Pl,c		hann		STEM
+arpʕa:		arpʕa		NUM,Card,m		arpʕa		four.M
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+nwaffīḳa:		INCORRECT		VERB,INCORRECT		n-waffīḳ-a		1-STEM-F
+ʕlayy:		ʕa		PREP,POSS.3cp		ʕlay-y		on-3P
+w:		w		CCONJ		w		and
+nraṣṣīya:		arəṣ yarəṣ		VERB,IVy,Perf,1,Sg,f		n-raṣṣīy-a		1-STEM-F
+bōn:		b		PREP,POSS.3mp		b-ōn		in-3mp
+
+
+012. išw semla w iḳlab, willa ḳaʕya elġul mapṣūṭ, amella: «wrēš mō ḳiṣṣṯiš?»
+012. Er stellte eine Leiter auf und stieg über (die Mauer), und da saß sie vergnügt drinnen, und er sagte zu ihr: «Mensch, was ist mit dir los?»
+
+išw:		išw yišw		VERB,I,Praet,3,Sg,m		išw		STEM
+semla:		semla		NOUN,m,Sg		seml-a		STEM-Free
+w:		w		CCONJ		w		and
+iḳlab:		iḳlab yiḳlub		VERB,I,Praet,3,Sg,m		iḳlab		STEM
+willa:		willa/walla		ADV,Mod		willa		STEM
+ḳaʕya:		ḳʕōle yiḳʕēle		VERB,Perf,3,Sg,f		ḳaʕy-a		STEM-F
+elġul:		elġul		ADV,Loc		elġul		STEM
+mapṣūṭ:		mapṣuṭ		ADJ,Indef,Sg,f,3		mapṣūṭ		STEM
+amella:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3fs		amel-la		STEM-3fs.IO
+wrēš:		wrāx		INTJ,f		wr-ēš		STEM-F
+mō:		mō		PRON,Inter		mō		what
+ḳiṣṣṯiš:		ḳeṣṣṯa		NOUN,f,Sg,POSS.2fs		ḳiṣṣ-ṯ-iš		STEM-F-2fs
+
+
+025. aḳam applēle.
+025. Da gab er ihn ihr.
+
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳam		STEM
+applēle:		EMPTY		VERB,EMPTY				
+
+
+017. aḳam ʕṣofra ščḥunne arḥel.
+017. Am Morgen entdeckten sie, daß er abgezogen war.
+
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Pl,c		aḳam		STEM
+ʕṣofra:		ʕṣofra		NOUN,m,Sg		ʕṣofr-a		STEM-Free
+ščḥunne:		EMPTY		VERB,EMPTY				
+arḥel:		arḥel yarḥel		VERB,IV,Praet,3,Sg,m		arḥel		STEM
+
+
+015. taššrunne w zalle.
+015. Sie ließen ihn ziehen.
+
+taššrunne:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+zalle:		zalle yzelle		VERB,I,Praet,3,Sg,m		zalle		STEM.PAST
+
+
+012. isleḳ lahhīyin ʕam-mōxlin.
+012. Sie waren hinaufgestiegen und aßen vergnügt.
+
+isleḳ:		isleḳ yislaḳ		VERB,I,Praet,3,Pl,c		isleḳ		STEM
+lahhīyin:		iləh yiləh		VERB,I,Perf,3,Pl,m		lahhīy-in		STEM-3MP
+ʕam:		ʕamma		AUX		ʕam		PP
+mōxlin:		axal yīxul		VERB,Iʔ,Prs,3,Pl,m		mōxl-in		STEM-MP
+
+
+004. bōṯar čiḳrīban felkiš šaʕṯa aḳa ḥōne ščafəḳte.
+004. Nach etwa einer halben Stunde vermißte ihn sein Bruder.
+
+bōṯar:		bōṯar		SCONJ		bōṯar		STEM
+čiḳrīban:		EMPTY		ADV,EMPTY				
+felkiš:		felka		NOUN,m,Sg,HD		felk-iš		STEM-HD
+šaʕṯa:		šaʕṯa		NOUN,f,Sg		šaʕ-ṯ-a		STEM-F-Free
+aḳa:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳa		STEM
+ḥōne:		ḥōna		NOUN,m,Sg,POSS.3ms		ḥōn-e		STEM-3ms
+ščafəḳte:		EMPTY		VERB,EMPTY				
+
+
+010. bess hū m-zaʕle w ʕemmiš šaṯṯ w hōṯe ičbar p-xōṭre, miḥəl ḏrōʕe mett yaffeḳ besra, aḳam ameṯ.
+010. Aber wegen seines Ärgers, und weil er getrunken hatte, und weil jener ihn beleidigt hatte, stach er in seinen Arm, um Fleisch herauszuschneiden, und da ist er gestorben.
+
+bess:		bess		PRON		bess		STEM
+hū:		hū		PRON,Pers,3,Sg,m		hū		STEM
+m:		m		PREP,Free		m		from
+zaʕle:		zaʕla		NOUN,m,Sg,POSS.3ms		zaʕl-e		STEM-3ms
+w:		w		CCONJ		w		and
+ʕemmiš:		ʕemmil		PREP,Free		ʕemm-iš		with-2fs
+šaṯṯ:		išəč yišəč		VERB,I,Perf,3,Sg,m		šaṯṯ		STEM
+w:		w		CCONJ		w		and
+hōṯe:		hōṯe		DET,Sg,m		hōṯe		STEM
+ičbar:		ičbar yičbur		VERB,I,Praet,3,Sg,m		ičbar		STEM
+p:		b		PREP,Free		p		in
+xōṭre:		xōṭra		NOUN,m,Sg,POSS.3ms		xōṭr-e		STEM-3ms
+miḥəl:		iməḥ yiməḥ		VERB,I,Praet,3ms,DOM		miḥ-əl		STEM-DOM
+ḏrōʕe:		ḏrōʕa		NOUN,m,Sg,POSS.3ms		ḏrōʕ-e		STEM-3ms
+mett:		mett		PRON,Indef		mett		STEM
+yaffeḳ:		affeḳ yaffeḳ		VERB,IV,Subj,3,Sg,m		ya-ffeḳ		3M-STEM
+besra:		besra		NOUN,m,Sg		besr-a		STEM-Free
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳam		STEM
+ameṯ:		ameṯ yīmuṯ		VERB,IIy,Praet,3,Sg,m		ameṯ		STEM
+
+
+014. amrulle: «čūṯ ġappaynaḥ.»
+014. Sie sagten zu ihm: «Das gibt es bei uns nicht.»
+
+amrulle:		amar yīmar		VERB,Iʔ,Praet,3,Pl,m,D.3ms		amr-ul-le		STEM-3mp-3ms.IO
+čūṯ:		čūṯ		PART,Neg		čūṯ		STEM
+ġappaynaḥ:		ġappil		PREP,POSS.1cp		ġappay-naḥ		STEM-1p
+
+
+023. ʕōbra, w surtōbiš šenna rabbi.
+023. Sie kam herein (ins Dorf), und es war ein großes Felsengewölbe.
+
+ʕōbra:		iʕber yiʕbar		VERB,I,Prs,3,Sg,f		ʕōbr-a		STEM-F
+w:		w		CCONJ		w		and
+surtōbiš:		surtōba		NOUN,m,Sg,HD		surtōb-iš		STEM-HD
+šenna:		šenna		NOUN,m,Sg		šenn-a		STEM-Free
+rabbi:		rabb		ADJ,Indef,3,Sg,m		rabbi		STEM
+
+
+033. ḏukkil iṭlab xōla, aḳam hann ḥkimō čʕažžab lə-brōm wakīn.
+033. Als er nach Essen verlangte, da wunderten sich die Ärzte über Brōm Wakīn.
+
+ḏukkil:		ḏukkil		SCONJ		ḏukkil		STEM
+iṭlab:		iṭlab yiṭlub		VERB,I,Praet,3,Sg,m		iṭlab		STEM
+xōla:		xōla		NOUN,m,Sg		xōl-a		STEM-Free
+aḳam:		aḳam yīḳum		VERB,IIw,Praet,3,Pl,c		aḳam		STEM
+hann:		hann		DET,Pl,c		hann		STEM
+ḥkimō:		ḥkīma		NOUN,m,Pl		ḥkim-ō		STEM-P
+čʕažžab:		čʕažžab yičʕažžab		VERB,II2,Praet,3,Pl,c		čʕažžab		STEM
+lə:		l		PREP,Free		lə		to
+brōm:		EMPTY		PROPN,EMPTY				
+wakīn:		wakīn		PROPN		wakīn		STEM
+
+
+021. amelle: «fōk hann ḥablō m-ʕal-anna ġešra!»
+021. Er sagte zu ihm: «Löse die Seile von dem Baumstamm!»
+
+amelle:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3ms		amel-le		STEM-3ms.IO
+fōk:		EMPTY		VERB,EMPTY				
+hann:		hann		DET,Pl,c		hann		STEM
+ḥablō:		ḥabla		NOUN,m,Pl		ḥabl-ō		STEM-P
+m:		m		PREP,Free		m		from
+ʕal:		ʕa		PREP,Free		ʕal		on
+anna:		hanna		DET,Sg,m		anna		this.M
+ġešra:		ġešra		NOUN,m,Sg		ġešr-a		STEM-Free
+
+
+007. ḳʕōle mišṭaʕ b-iṯər sayf, ṭarḳil īḏe p-ḥelsil awwal aḥḥaḏ w ōfez, ḳaṭṭaʕ maʕ šobʕa ḥōḏ, maʕ šobʕa ḥmōr.
+007. Da kämpfte er mit zwei Schwertern, stützte seine Hand auf den Sattel des ersten (Esels) und sprang, und er gelangte über die sieben Stück, über die sieben Esel.
+
+ḳʕōle:		ḳʕōle yiḳʕēle		VERB,Praet,3,Sg,m		ḳʕō-le		STEM-PAST
+mišṭaʕ:		EMPTY		VERB,EMPTY				
+b:		b		PREP,Free		b		in
+iṯər:		iṯər		NUM,Card,m		iṯər		two.M
+sayf:		sayfa		NOUN,m,ZPl		sayf		STEM
+ṭarḳil:		iṭraḳ yiṭruḳ		VERB,I,Praet,3,Sg,m,DOM		ṭarḳ-il		STEM-DOM
+īḏe:		īḏa		NOUN,m,Sg,POSS.3ms		īḏ-e		STEM-3ms
+p:		b		PREP,Free		p		in
+ḥelsil:		ḥelsa		NOUN,m,Sg,HD		ḥels-il		STEM-HD
+awwal:		awwal		NUM,Ord		awwal		first
+aḥḥaḏ:		aḥḥaḏ		NUM,Card,m		aḥḥaḏ		one.M
+w:		w		CCONJ		w		and
+ōfez:		ōfez yōfez		VERB,IV,Praet,3,Sg,m		ōfez		STEM
+ḳaṭṭaʕ:		ḳaṭṭaʕ yḳaṭṭaʕ		VERB,II,Praet,3,Sg,m		ḳaṭṭaʕ		STEM
+maʕ:		maʕl		PREP,Free		maʕ		STEM
+šobʕa:		šobʕa		NUM,Card,m		šobʕa		seven.M
+ḥōḏ:		INCORRECT		NOUN,INCORRECT		ḥōḏ		STEM
+maʕ:		maʕl		PREP,Free		maʕ		STEM
+šobʕa:		šobʕa		NUM,Card,m		šobʕa		seven.M
+ḥmōr:		ḥmōra		NOUN,m,ZPl		ḥmōr		STEM
+
+
+003. zōyʕin menne ommṯa, hū ižreʕ, ču mahemmle.
+003. Die Leute fürchteten sich vor ihnen, (aber) er war mutig und es kümmerte ihn nicht.
+
+zōyʕin:		EMPTY		VERB,EMPTY				
+menne:		m		PREP,POSS.3ms		menn-e		from-3ms
+ommṯa:		ommṯa		NOUN,f,Sg		omm-ṯ-a		STEM-F-Free
+hū:		hū		PRON,Pers,3,Sg,m		hū		STEM
+ižreʕ:		ižreʕ		ADJ,Indef,Sg,m,3		ižreʕ		STEM
+ču:		ču		PART,Neg		ču		NEG
+mahemmle:		EMPTY		VERB,EMPTY				
+
+
+003. aḳa hanna šappa batte yṣaḥḥenna, amella: «ḳūm yḳuṭʕell ʕumriš! ana ʕa-nmōzaḥ ʕimmiš.»
+003. Da wollte der Jüngling sie wieder gesund machen und sagte zu ihr: «Steh auf, verdammt nochmal! Ich mache doch nur Spaß mit dir.»
+
+aḳa:		aḳam yīḳum		VERB,IIw,Praet,3,Sg,m		aḳa		STEM
+hanna:		hanna		DET,Sg,m		hanna		this.M
+šappa:		šappa		NOUN,m,Sg		šapp-a		STEM-Free
+batte:		batte		AUX,3,Sg,m		batt-e		STEM
+yṣaḥḥenna:		EMPTY		VERB,EMPTY				
+amella:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3fs		amel-la		STEM-3fs.IO
+ḳūm:		aḳam yīḳum		VERB,IIw,Imp,Sg,f		ḳūm		STEM
+yḳuṭʕell:		EMPTY		VERB,EMPTY				
+ʕumriš:		ʕomra		NOUN,m,Sg,POSS.2fs		ʕumr-iš		STEM-2fs
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+ʕa:		ʕamma		AUX		
+nmōzaḥ:		imzaḥ yimzuḥ		VERB,1,I,Prs,Sg,m				
+ʕimmiš:		EMPTY		PREP,EMPTY				
+
+
+005. baʕdēn illa naffeḏ aḥḥaḏ mažnun xwōṯe amellun: «ana nmaḥḥečle.»
+005. Dann kam genauso ein Verrückter wie er an und sagte zu ihnen: «Ich hole ihn herunter.»
+
+baʕdēn:		baʕdēn		ADV,Temp		baʕdēn		STEM
+illa:		illa		PART		illa		STEM
+naffeḏ:		infaḏ yinfuḏ		VERB,I,Perf,3,Sg,m		naffeḏ		STEM
+aḥḥaḏ:		aḥḥaḏ		NUM,Card,m		aḥḥaḏ		one.M
+mažnun:		mažnun		ADJ,Indef,Sg,m,3		mažnun		STEM
+xwōṯe:		ext		PREP,POSS.3ms		xwōṯ-e		like-3ms
+amellun:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3mp		amel-lun		STEM-3mp.IO
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+nmaḥḥečle:		EMPTY		VERB,EMPTY				
+
+
+001. ōṯ ġabrōna m-ḥilpul, ġappe psōna ʕomre uppe eʕsar išən.
+001. Es war einmal ein Mann aus Ḥalbūn, der hatte einen Sohn von ungefähr zehn Jahren.
+
+ōṯ:		ōṯ		AUX		ōṯ		STEM
+ġabrōna:		ġabrōna		NOUN,m,Sg		ġabrōn-a		STEM-Free
+m:		m		PREP,Free		m		from
+ḥilpul:		EMPTY		PROPN,EMPTY				
+ġappe:		ġappil		PREP,POSS.3ms		ġapp-e		STEM-3ms
+psōna:		psōna		NOUN,m,Sg		psōn-a		STEM-Free
+ʕomre:		ʕomra		NOUN,m,Sg,POSS.3ms		ʕomr-e		STEM-3ms
+uppe:		eppe/uppe		ADV,Mod		uppe		STEM
+eʕsar:		eʕsar		NUM,Card,f		eʕsar		ten.F
+išən:		ešna		NOUN,m,ZPl		išən		STEM
+
+
+004. xaṭpa w kallel aʕla.
+004. Er verlobte sich mit ihr und heiratete sie.
+
+xaṭpa:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+kallel:		kallel ykallel		VERB,II,Praet,3,Sg,m		kallel		STEM
+aʕla:		ʕa		PREP,POSS.3fs		aʕl-a		on-3fs
+
+
+003. waḳčil ḥimne ḥkīma xann, amelle: «xalaṣ, hačči ṯiḳnič kayyes, šoppṯa ḥrīṯa bann naffennax čzellax ʕa tiḏōx, lōfaš uppax mett.»
+003. Als der Arzt ihn so sah, sagte er zu ihm: «Genug, du hast dich gut entwickelt, in einer Woche werde ich zu deinen Verwandten (nach Hause) gehen lassen, du hast überhaupt nichts mehr.»
+
+waḳčil:		waḳčil		SCONJ		waḳčil		STEM
+ḥimne:		iḥəm yiḥəm		VERB,I,Praet,3,Sg,m,O.3ms		ḥim-n-e		STEM-PLEO-3ms
+ḥkīma:		ḥkīma		NOUN,m,Sg		ḥkīm-a		STEM-Free
+xann:		xann		ADV,Mod		xann		STEM
+amelle:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3ms		amel-le		STEM-3ms.IO
+xalaṣ:		EMPTY		INTJ,EMPTY				
+hačči:		hačč		PRON,Pers,2,Sg,m		hačči		STEM
+ṯiḳnič:		iṯḳen yiṯḳan		VERB,I,Praet,2,Sg,m		ṯiḳn-ič		STEM-2ms
+kayyes:		kayyes		ADJ,Indef,Sg,m,3		kayyes		STEM
+šoppṯa:		EMPTY		NOUN,EMPTY				
+ḥrīṯa:		ḥrēna		PRON,Sg,f		ḥr-īṯa		STEM
+bann:		batte		AUX,1,Sg,c		b-ann		STEM
+naffennax:		EMPTY		VERB,EMPTY				
+čzellax:		zalle yzelle		VERB,I,Subj,2,Sg,m		č-zell-ax		2-STEM-M
+ʕa:		ʕa		PREP,Free		ʕa		on
+tiḏōx:		tiḏō		NOUN,m,Pl,POSS.2ms		tiḏ-ō-x		STEM-P-2ms
+lōfaš:		lōfaš		AUX		lōfaš		STEM
+uppax:		ippe		AUX,POSS.2ms		upp-ax		STEM
+mett:		mett		PRON,Indef		mett		STEM
+
+
+012. amelle: «ʕalle mʕallaḳ ʕa ṯarʕit tikkōna!»
+012. Er sagte zu ihm: «Schau ihn dir an, er ist an der Türe des Ladens aufgehängt!»
+
+amelle:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3ms		amel-le		STEM-3ms.IO
+ʕalle:		EMPTY		VERB,EMPTY				
+mʕallaḳ:		ʕallaḳ yʕallaḳ		VERB,II,Prs,3,Sg,m		mʕallaḳ		STEM
+ʕa:		ʕa		PREP,Free		ʕa		on
+ṯarʕit:		ṯarʕa		NOUN,m,Sg,HD		ṯarʕ-it		STEM-HD
+tikkōna:		tikkōna		NOUN,m,Sg		tikkōn-a		STEM-Free
+
+
+011. waxma taḳḳe w naʕʕme w šūne ʕa ffōyəl ʕolpṯa w zalle l-ʕa harūn ər-rašīd.
+011. Er zerstieß den Dreck, pulverisierte ihn, legte ihn obendrauf in die Dose und ging zu Hārūn ar-Rašīd.
+
+waxma:		waxma		NOUN,m,Sg		waxm-a		STEM-Free
+taḳḳe:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+naʕʕme:		naʕʕem ynaʕʕem		VERB,INCORRECT		naʕʕm-e		STEM-3ms
+w:		w		CCONJ		w		and
+šūne:		išw yišw		VERB,I,Praet,3,Sg,m,O.3ms		šū-n-e		STEM-PLEO-3ms
+ʕa:		ʕa		PREP,Free		ʕa		on
+ffōyəl:		ffō		NOUN,m,Pl,HD		ff-ōy-əl		STEM-P-HD
+ʕolpṯa:		EMPTY		NOUN,EMPTY				
+w:		w		CCONJ		w		and
+zalle:		zalle yzelle		VERB,I,Praet,3,Sg,m		zalle		STEM.PAST
+l:		l		PREP,Free		l		to
+ʕa:		ʕa		PREP,Free		ʕa		on
+harūn:		EMPTY		PROPN,EMPTY				
+ər:		EMPTY		PART,EMPTY				
+rašīd:		rašīd		PROPN		rašīd		STEM
+
+
+004. amrōle: «ē, ṭabʕan, nyaḏḏīʕa innu ṯiḳninnaḥ šaxṣa aḥḥaḏ, bess la činəš čiṭlub xōla l-iṯər!»
+004. Sie sagte zu ihm: «Ja, natürlich, ich weiß, daß wir (wie) eine Person geworden sind, aber vergiß nicht, Essen für zwei zu bestellen!»
+
+amrōle:		amar yīmar		VERB,Iʔ,Prs,3,Sg,f,D.3ms		amrō-le		STEM-3ms.IO
+ē:		ē		PART		ē		yes
+ṭabʕan:		INCORRECT		ADV,INCORRECT		ṭabʕ-an		STEM-3fp
+nyaḏḏīʕa:		iḏeʕ yīḏeʕ		VERB,Iy,Perf,1,Sg,f		n-yaḏḏīʕ-a		1-STEM-F
+innu:		inni/innu/inne		SCONJ		innu		STEM
+ṯiḳninnaḥ:		iṯḳen yiṯḳan		VERB,I,Praet,1,Pl,c		ṯiḳn-innaḥ		STEM-1p
+šaxṣa:		šaxṣa		NOUN,m,Sg		šaxṣ-a		STEM-Free
+aḥḥaḏ:		aḥḥaḏ		NUM,Card,m		aḥḥaḏ		one.M
+bess:		bess		PRON		bess		STEM
+la:		la		PART,Neg		la		NEG
+činəš:		EMPTY		VERB,EMPTY				
+čiṭlub:		iṭlab yiṭlub		VERB,I,Subj,2,Sg,m		či-ṭlub		2-STEM
+xōla:		xōla		NOUN,m,Sg		xōl-a		STEM-Free
+l:		l		PREP,Free		l		to
+iṯər:		iṯər		NUM,Card,m		iṯər		two.M
+
+
+010. aḥref ebre zʕōra, amelle: «ana nhamešle w nmaṣeṣle w ntaḳeḳle w nsafefle.»
+010. Da antwortete ihm sein jüngster Sohn und sagte zu ihm: «Ich nage ihn ab, sauge ihn aus, zerstoße ihn und pulverisiere ihn.»
+
+aḥref:		aḥref yaḥref		VERB,IV,Praet,3,Sg,m		aḥref		STEM
+ebre:		ebra		NOUN,m,Sg,POSS.3ms		ebr-e		STEM-3ms
+zʕōra:		iẓʕur/izʕur		ADJ,Def,Sg,m,3		zʕōr-a		STEM-MS.DEF
+amelle:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3ms		amel-le		STEM-3ms.IO
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+nhamešle:		ihmaš yihmuš		VERB,I,Prs,1,Sg,m,O.3ms		n-hameš-le		1-STEM-3ms
+w:		w		CCONJ		w		and
+nmaṣeṣle:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+ntaḳeḳle:		EMPTY		VERB,EMPTY				
+w:		w		CCONJ		w		and
+nsafefle:		EMPTY		VERB,EMPTY				
+
+
+011. amelle: «ana nʔažərlēle ḥmōra nʔažərlēle fayya?»
+011. Er sagte zu ihm: «Wenn ich ihm den Esel vermiete, vermiete ich ihm dann (gleichzeitig auch) den Schatten?»
+
+amelle:		amar yīmar		VERB,Iʔ,Praet,3,Sg,m,D.3ms		amel-le		STEM-3ms.IO
+ana:		ana		PRON,Pers,1,Sg		ana		STEM
+nʔažərlēle:		EMPTY		VERB,EMPTY				
+ḥmōra:		ḥmōra		NOUN,m,Sg		ḥmōr-a		STEM-Free
+nʔažərlēle:		EMPTY		VERB,EMPTY				
+fayya:		fayya		NOUN,m,Sg		fayy-a		STEM-Free
+
+
+003. maʕzmōle: «čfaḏ̣ḏ̣āl yā ḳašīša, našḳennax ḳahwe, čfaḏ̣ḏ̣āl!»
+003. Sie lud ihn ein: «Bittesehr, oh Priester, (komm,) damit wir dir (eine Tasse) Kaffee kredenzen, bittesehr!»
+
+maʕzmōle:		aʕzem yaʕzem		VERB,IV,Prs,3,Sg,f,O.3ms		ma-ʕzm-ō-le		3-STEM-F-3ms
+čfaḏ̣ḏ̣āl:		čfaḏ̣ḏ̣āl		INTJ				
+yā:		ya		PART		yā		STEM
+ḳašīša:		ḳašīša		NOUN,m,Sg		ḳašīš-a		STEM-Free
+našḳennax:		EMPTY		VERB,EMPTY				
+ḳahwe:		ḳahwe		NOUN,Sg,m		ḳahwe		STEM
+čfaḏ̣ḏ̣āl:		čfaḏ̣ḏ̣āl		INTJ				
+
+
+005. W-ḥayyil l-ann ʕaynō! Čūl meʕle ġnō. // Ex ūle leppa yiṣlinni ex ṣafərnō.
+005. Beim Leben dieser Augen! Ohne ihn kann ich nicht sein. // Was hat er für ein Herz, daß er mich brät wie Vögel.
+
+w:		w		CCONJ		w		and							
+ḥayyil:		EMPTY		NOUN,EMPTY				
+l:		l		PREP,Free		l		to								
+ann:		hann		DET,Pl,c		ann		these
+ʕaynō:		ʕayna		NOUN,m,Pl		ʕayn-ō		STEM-P							
+čūl:		čūle		AUX,1,Sg,c		čūl		STEM
+meʕle:		maʕl		PREP,POSS.3ms		meʕl-e		STEM-3ms
+ġnō:		ġnō		NOUN,m,Sg		ġn-ō		STEM														
+ex:		ex		ADV,Mod		ex		STEM
+ūle:		īle		AUX,3,Sg,m		ūl-e		STEM-3ms
+leppa:		leppa		NOUN,m,Sg		lepp-a		STEM-Free
+yiṣlinni:		EMPTY		VERB,EMPTY				
+ex:		ex		ADV,Mod		ex		STEM
+ṣafərnō:		ṣafrōna		NOUN,m,Pl		ṣafərn-ō		STEM-P
+
+0
