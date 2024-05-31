@@ -17,8 +17,25 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    ```
    After that you can pass to parser one word or a list of words which it will analyse:
    ```
-   analyses = a.analyze_words('xalpa')  
-   analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'])
+   analyses = a.analyze_words('ġamlax')
+   for ana in analyses:
+      print("wordform: ", ana.wf)
+      print("lemma: ", ana.lemma)
+      print("grammatical features: ", ana.gramm)
+      print("glossed wordform: ", ana.wfGlossed)
+      print("glosses: ", ana.gloss)
+
+   #output:
+   #wordform: ġamlax
+   #lemma: ġamla
+   #grammatical features: NOUN,POSS.2ms,Sg,m
+   #glossed wordform: ġaml-ax
+   #glosses: STEM=2ms
+   ```
+     
+   You can also pass a list of words and specify the output format (`xml`, `json` or `connl`):
+   ``` 
+   analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'], format='xml')
    ```
    
    **Evaluation tool for morphological parser** (here will be description soon)
