@@ -11,12 +11,15 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    ```pip3 install uniparser```
 
    Then initialise `Analyzer()` and load grammar (i. e. `lexemes.txt` and `paradigms.txt` files which should be placed in the same folder):
-   ```a = Analyzer()
+   ```
+   a = Analyzer()  
    a.load_grammar()
    ```
    After that you can pass to parser one word or a list of words which it will analyse:
-   ```analyses = a.analyze_words('xalpa')
-   analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'])```
+   ```
+   analyses = a.analyze_words('xalpa')  
+   analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'])
+   ```
    
    **Evaluation tool for morphological parser** (here will be description soon)
      
