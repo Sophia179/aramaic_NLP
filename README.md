@@ -6,8 +6,18 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
 ## List of NLP tools 
 1. **Morphological parser.** This parser was created via `UniParser`. It returns lemma, part-of-speech tag and grammatical characteristics for each word given.  
   
-   *How to use:* (here will be description soon)
-  
+   How to use:
+   If `UniParser` is not installed, you can install it via `pip`:
+   ```pip3 install uniparser```
+
+   Then initialise `Analyzer()` and load grammar (i. e. `lexemes.txt` and `paradigms.txt` files which should be placed in the same folder):
+   ```a = Analyzer()
+   a.load_grammar()
+   ```
+   After that you can pass to parser one word or a list of words which it will analyse:
+   ```analyses = a.analyze_words('xalpa')
+   analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'])```
+   
    **Evaluation tool for morphological parser** (here will be description soon)
      
 3. **Glossing tool.** It is based on `UniParser`. The glossing tool return a glossed version for given text which consists of line with morphological segmentation and line with morphological annotation. This tool is based on glossing rules developed by research group "Grammar of Neo-Aramaic languages" (HSE).  
