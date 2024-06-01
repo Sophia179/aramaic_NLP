@@ -39,9 +39,9 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    analyses = a.analyze_words(['ana', 'xett', 'batt', 'ṯinaġelča'], format='xml')
    ```
    
-   **Evaluation tool for morphological parser** consists of two functions: the first one prepares gold annotation (which is stored in `annotation.txt`) in certain format, the second one returns dataframe with number and percentage of correct lemmata, part-of-speech tags and grammatical features.
-
-   For a more detailed description see `aramaic_uniparser+evaluation_tool.ipynb`.  
+   **Evaluation tool for morphological parser** consists of two functions: the first one prepares gold annotation (which is stored in `annotation.txt`) in certain format, the second one returns dataframe with number and percentage of correct lemmata, part-of-speech tags and grammatical features.  
+   For a more detailed description see `aramaic_uniparser+evaluation_tool.ipynb`.
+      
    For how file `lexemes.txt` was prepared, see `aramaic_uniparser_behind_the_scenes.ipynb`. MASC data can be found on https://zenodo.org/records/5814744#.Yd1M7mhKhPY.
 
          
