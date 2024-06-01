@@ -45,11 +45,11 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    For how file `lexemes.txt` was prepared, see `aramaic_uniparser_behind_the_scenes.ipynb`. MASC data can be found on https://zenodo.org/records/5814744#.Yd1M7mhKhPY.
 
          
-3. **Glossing tool.** It is based on `UniParser`. The glossing tool return a glossed version for given text which consists of line with morphological segmentation and line with morphological annotation. This tool is based on glossing rules developed by research group "Grammar of Neo-Aramaic languages" (HSE).  
+3. **Glossing tool.** It is based on `UniParser`. The glossing tool is a function which returns a glossed version for a given text. The output consists of line with morphological segmentation and line with morphological annotation according to glossing rules developed by research group "Grammar of Neo-Aramaic languages" (HSE). Currently the most of stems are glossed as "STEM" but later they will be replaced with English translations. 
   
-   *How to use:* (here will be description soon)
+   How to use: function takes `.txt` file with text which needs to be annotated. For example of usage see `glossing_tool+evaluation_tool.ipynb`.
    
-   **Evaluation tool for glossing tool** (here will be description soon)
+   **Evaluation tool for glossing tool** is also a function. It takes two obligatory arguments: `.txt` files of glossed text and gold glossed standard. Evaluation tool returns percentage of words with correct morphological segmentation and morphological annotation. For example of usage also see `glossing_tool+evaluation_tool.ipynb`.
 
     
 5. **Modern Western Aramaic parallel annotated multimedia corpus.** Corpus of Maaloula dialect was created via `tsakorpus` platform. Currently it contains only texts in Maaloula dialect. It supports search on wordforms, lemmata, part-of-speech tags, grammatical characteristics (and their combinations). Each sentence is supplied with German translation and audiofile (all audiofiles were taken from MASC dataset). Subcorpora can also be selected based on metadata.  
@@ -59,4 +59,5 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    For how `.json` files were prepared see `corpus_behind_the_scenes.ipynb`
 
 ### Links
-[The Maaloula Aramaic Speech Corpus (MASC): From Printed Material to a Lemmatized and Time-Aligned Corpus](https://aclanthology.org/2022.lrec-1.699) (Eid et al., LREC 2022)
+[The Maaloula Aramaic Speech Corpus (MASC): From Printed Material to a Lemmatized and Time-Aligned Corpus](https://aclanthology.org/2022.lrec-1.699) (Eid et al., LREC 2022)  
+Research group "Grammar of Neo-Aramaic languages": https://iocs.hse.ru/grammararamaic/
