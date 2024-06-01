@@ -5,10 +5,10 @@ silḳ-iṯ	ana	fēris	w	aḥḥaḏ	ušm=e	ʕazīz	šōʕra	ʕa=ʕarḳūb-a	b=
 STEM.PST-1S	I	PN	and	one.M	STEM=3ms	PN	PN	to=STEM-FREE	on=STEM=HD	STEM=1P
 
 silḳ-innaḥ	l=elʕel	ḥm-innaḥ	xēf-a	rabb	wazn=e	nōfeḳ	mett	ṯarč	emʕa	kīlo	ṯaḳḳen	ex	ṭōp-ṯ-a	mtawwar	mtaḥpal	yaʕni
-STEM.PST-1P	to=STEM	STEM.PST-1P	STEM-FREE	STEM	STEM=3ms	STEM.PRS	STEM	two.F	hundred	STEM	STEM.PRF	like	STEM-F-FREE	STEM.PRS	STEM	HES
+STEM.PST-1P	to=above	STEM.PST-1P	STEM-FREE	STEM	STEM=3ms	STEM.PRS	STEM	two.F	hundred	STEM	STEM.PRF	like	STEM-F-FREE	STEM.PRS	STEM	HES
 
 amr-il=le	ṯā-x	n-taḥəkl-ell	l=hanna	xēf-a	w	ču	n-yaḏḏīʕ-in	mō	batt=e	yi-nfuḳ	m=taḥkīl=l	l=hanna	xēf-a	w	erraʕ	minnay=naḥ	ōṯ	payṯ-yōṯ-a	baḥar
-STEM.PST-1S=3ms.IO	STEM.IPV-MS	1-STEM.SBJV-PLEO	DOM=this.M	STEM-FREE	and	NEG	1-STEM.PRF-MP	what	FUT=3ms	3M-STEM	from=STEM=HD	DO=this.M	STEM-FREE	and	STEM	from=1P	EXIST	STEM-P-FREE	STEM
+STEM.PST-1S=3ms.IO	STEM.IPV-MS	1-STEM.SBJV-PLEO	DOM=this.M	STEM-FREE	and	NEG	1-STEM.PRF-MP	what	FUT=3ms	3M-STEM	from=STEM=HD	DO=this.M	STEM-FREE	and	under	from=1P	EXIST	STEM-P-FREE	much
 
 ōmar	ē	tafəš-laḥ=l	l=hanna	xēf-a	inḥeč	ʕa=taḥkel	b=hanna	ʕarḳūb-a	masōfč-a	mett	ṯarč	eṯlaṯ	emʕa	mičər
 STEM.PRS	yes	STEM.PST-1P=DOM	DOM=this.M	STEM-FREE	STEM.PST	to=STEM.PST	in=this.M	STEM-FREE	STEM-FREE	STEM	two.F	three.F	hundred	STEM.NUM
@@ -17,7 +17,7 @@ iḥbaṭ	ʕa=payṯ-a	l=šaxṣ-a	ušm=e	ʕali	ḥammūd	hanna	m=rapp-ōy=l	bl�
 STEM.PST	to=STEM-FREE	to=STEM-FREE	STEM=3ms	PN	PN	this.M	from=STEM-MP.DET=HD	STEM-FREE	HES
 
 w-ayb-in	žmīʕ-in	ġapp=e	ommṯ-a	baḥar	akṯar	mn=eʕsar	ḥammešʕasər	zalm-an
-PST-be-MP	STEM.PRF-MP	with=3ms	STEM-FREE	STEM	STEM	CMPR=ten.F	fifteen.F	STEM-NUM.F
+3-be-MP	STEM.PRF-MP	with=3ms	STEM-FREE	much	STEM	CMPR=ten.F	fifteen.F	STEM-NUM.F
 
 ḏukkil	isḳaṭ	hanna	xēf-a	ražžaṯ	blōt-a	xull=a	sawa	liʔannu	awwal	mett	imḥaḳ	ʕakkōr=l	šimenṭo	baʕdēn	inḥeč	ʕa=ʕakkōr=l	xšūr-a	čbar=le	šeṯṯ	ešbaʕ	xšurī-yan
 when	STEM.PST	this.M	STEM-FREE	STEM.PST-3fs	STEM-FREE	STEM=3fs	STEM	because	first	STEM	STEM.PST	STEM=HD	STEM	then	STEM.PST	to=STEM=HD	STEM-FREE	STEM.PST=3ms.IO	six.F	seven.F	STEM-NUM.F
@@ -50,13 +50,13 @@ iṯḳen	mtawwr-in	aʕəl	ana	ni-ṭmer	la	sčahət	aʕəl
 STEM.PST	STEM.PRS-MP	for.1S	I	1-STEM.PRF	NEG	STEM.PST	for.1S
 
 ʕirp-aṯ	šimš-a	w	ana	n-ḳayyam	elʕel
-STEM.PST-3fs	STEM.F-FREE	and	I	1-STEM	above
+STEM.PST-3fs	STEM-FREE	and	I	1-STEM	above
 
 eppay	šattar	ommṯ-a	y-tawwr-un	aʕəl	azaʕ	aʕəl	liʔannu	ana	n-waḥtōn-ay	n-ōb	ġapp=e	b=payṯ-a
 STEM.1S	STEM.PST	STEM-FREE	3-STEM.SBJV-MP	for.1S	STEM.PST	for.1S	because	I	1-STEM-MS.INDF	1-be	with=3ms	in=STEM-FREE
 
-ḏukkil	mass-aṯ	tunya	kayyes	ana	niḥč-iṯ	m=ʕarḳūb-a
-when	STEM.PST-3fs	STEM	STEM	I	STEM.PST	from=STEM-FREE
+ḏukkil	mass-aṯ	tuny-a	kayyes	ana	niḥč-iṯ	m=ʕarḳūb-a
+when	STEM.PST-3fs	STEM-FREE	STEM	I	STEM.PST	from=STEM-FREE
 
 niḥč-iṯ	ʕa=payṯ-a	ʕayn-iṯ	m=šuppōk-a	xann	ḥm-ič-č=l	eppay	ġapp=e	ommṯ-a	w	ʕa=msapseb	aʕəl
 STEM.PST-1S	to=STEM-FREE	STEM.PST-1S	from=STEM-FREE	like.so	STEM.PST-1S-PLEO=DOM	STEM.1S	with=3ms	STEM-FREE	and	PP=STEM.PRS	for.1S
@@ -112,17 +112,17 @@ STEM.PST-3mp	3-STEM.SBJV=DOM	STEM-FREE	but	STEM.PST-3mp-PLEO=3ms	STEM-F-FREE	STE
 fawwāz	ḳarṭ=e	mett	iṯər	ṯlōṯa	ʕurəʕri	hōṯe	ʕazīz	ḳarṭ-un-n=e	mett	ḥiməš	šičč	ʕurəʕri	w	mōmr-in	innu	ʕurʕr-a	summōḳ-a	kōn	arpʕa	ḥamša	ḳarṭ-il=l	aḥḥaḏ	mōyeṯ
 PN	STEM.PST=3ms	STEM	two.M	three.M	STEM.NUM	that.M	PN	STEM.PST=3mp-PLEO=3ms	STEM	fifty	sixty	STEM.NUM	and	STEM.PRS-MP	COMP	STEM-FREE	STEM-FS.INDF	if	four.M	five.M	STEM.PRS-MP=DOM	one.M	STEM.PRS
 
-ana	ni-mʕayn	aʕl=e	nmiščaḥl	ffōy=e	xullun	ʕurəʕr-ō	tappīš-in	ʕa=ffōy=e	w	balleš	ṣyūḥ-a
-I	1-STEM.PRS	to=3ms		STEM=3ms	STEM.M	STEM-P	STEM.PRF-MP	at=STEM=3ms	and	STEM.PST	STEM-FREE
+ana	ni-mʕayn	aʕl=e	n-miščaḥ-l	ffōy=e	xullun	ʕurəʕr-ō	tappīš-in	ʕa=ffōy=e	w	balleš	ṣyūḥ-a
+I	1-STEM.PRS	to=3ms	1-STEM-IO	STEM=3ms	STEM.M	STEM-P	STEM.PRF-MP	at=STEM=3ms	and	STEM.PST	STEM-FREE
 
 batt=e	yi-zʕuḳ	yā	ʕaḏra	lorkaʕ	infeḳ	ḥess=e
-STEM=3ms	3M-STEM.SBJV	STEM	PN	but.not	STEM.PST	STEM=3ms
+FUT=3ms	3M-STEM.SBJV	STEM	PN	but.not	STEM.PST	STEM=3ms
 
 ana	taššr-ič-č=un	w	šamṭ-iṯ
 I	STEM.PST-1S-PLEO=3mp	and	STEM.PST-1S
 
 fawwāz	inḥeč	ʕa=blōt-a	amel=l	tiḏ-ōy=e	amel=lun	ebər=xun	ḳarṭ-un-n=e	ʕurəʕrō	ču	ḳattar	y-allex	ōb	b=ʕarḳūb-a
-PN	STEM.PST	to=STEM-FREE	STEM.PST=IO	STEM-P=3ms	STEM.PST=3mp.IO	STEM=2mp	STEM.PST=3mp-PLEO=3ms	STEM-P	NEG	STEM.PST	3S-STEM.SBJV	be	in=STEM-FREE
+PN	STEM.PST	to=STEM-FREE	STEM.PST=IO	STEM-P=3ms	STEM.PST=3mp.IO	STEM=2mp	STEM.PST=3mp-PLEO=3ms	STEM-P	NEG	STEM.PST	3M-STEM.SBJV	be	in=STEM-FREE
 
 isleḳ	ṭaʕn-un-n=e	w	aḥḥč-un-n=e	infeḥ	ex	ṭabl-a
 STEM.PST	STEM.PST=3mp-PLEO=3ms	and	STEM.PST=3mp-PLEO=3ms	STEM.PST	as	STEM-FREE
@@ -131,7 +131,7 @@ STEM.PST	STEM.PST=3mp-PLEO=3ms	and	STEM.PST=3mp-PLEO=3ms	STEM.PST	as	STEM-FREE
 STEM-P=3ms	STEM	one.F	STEM.PST-3fs	two.M	STEM.NUM	STEM=3ms	NEG	STEM.PST	STEM=3mp	what	they
 
 ġappay=naḥ	ḥkīm-a	daktōr	nuṣralla	w-ōb	ḳayya	čū	izel	ʕa=frānsa	yi-čxarraž	ḳayyam	hōxa	mawžut	b=blōt-a	yaʕni
-with=1P	STEM-FREE	STEM	PN	PST-be	STEM	NEG	STEM.PRF	to=PN	3S-STEM.SBJV	STEM	here	STEM	in=STEM-FREE	HES
+with=1P	STEM-FREE	STEM	PN	3ms-be	STEM	NEG	STEM.PRF	to=PN	3M-STEM.SBJV	STEM	here	STEM	in=STEM-FREE	HES
 
 zal-lun	ayṯ-l-ul=le	ḥim=l	l=hanna	psōn-a	xann	amel-lun	hanna	mō	č+ūl=e	twō	bess	n-ōz	n-awṣef=lxun	waṣəf-ṯ-a	bižūz	č-aẓbeṭ
 STEM.PST-3mp	STEM.PST-DO-3mp=3ms.IO	STEM.PST=DOM	DOM=this.M	STEM-FREE	like.so	STEM.PST=3mp.IO	this.M	what	NEG+have=3ms	STEM	but	1-STEM.PRS	1-STEM.SBJV=2mp.IO	STEM-F-FREE	STEM	3F-STEM.SBJV
