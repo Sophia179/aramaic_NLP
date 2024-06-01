@@ -24,13 +24,14 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
       print("grammatical features: ", ana.gramm)
       print("glossed wordform: ", ana.wfGlossed)
       print("glosses: ", ana.gloss)
-
-   #output:
-   #wordform: ġamlax
-   #lemma: ġamla
-   #grammatical features: NOUN,POSS.2ms,Sg,m
-   #glossed wordform: ġaml-ax
-   #glosses: STEM=2ms
+   ```
+   Output:
+   ```
+   wordform: ġamlax
+   lemma: ġamla
+   grammatical features: NOUN,POSS.2ms,Sg,m
+   glossed wordform: ġaml-ax
+   glosses: STEM=2ms
    ```
      
    You can also pass a list of words and specify the output format (`xml`, `json` or `connl`):
@@ -40,8 +41,8 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    
    **Evaluation tool for morphological parser** consists of two functions: the first one prepares gold annotation (which is stored in `annotation.txt`) in certain format, the second one returns dataframe with number and percentage of correct lemmata, part-of-speech tags and grammatical features.
 
-   For a more detailed description see `aramaic_uniparser+evaluation_tool.ipynb`.
-   For how file `lexemes.txt` was prepared, see `aramaic_uniparser_behind_the_scenes.ipynb`. MASC data can be found on `https://zenodo.org/records/5814744#.Yd1M7mhKhPY`.
+   For a more detailed description see `aramaic_uniparser+evaluation_tool.ipynb`.  
+   For how file `lexemes.txt` was prepared, see `aramaic_uniparser_behind_the_scenes.ipynb`. MASC data can be found on https://zenodo.org/records/5814744#.Yd1M7mhKhPY.
      
 3. **Glossing tool.** It is based on `UniParser`. The glossing tool return a glossed version for given text which consists of line with morphological segmentation and line with morphological annotation. This tool is based on glossing rules developed by research group "Grammar of Neo-Aramaic languages" (HSE).  
   
