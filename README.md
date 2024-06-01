@@ -56,6 +56,7 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
 
    Corpus is available per link: (here will be a link soon)  
    GitHub repository for corpus: https://github.com/Sophia179/tsakorpus_aramaic
+   For how `.json` files were prepared see `corpus_behind_the_scenes.ipynb`
 
 ### Links
 [The Maaloula Aramaic Speech Corpus (MASC): From Printed Material to a Lemmatized and Time-Aligned Corpus](https://aclanthology.org/2022.lrec-1.699) (Eid et al., LREC 2022)
