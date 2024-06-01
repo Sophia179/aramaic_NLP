@@ -7,7 +7,7 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
 1. **Morphological parser.** This parser was created via `UniParser`. It returns lemma, part-of-speech tag and grammatical characteristics for each word given.  
   
    How to use:  
-   If `UniParser` is not installed, you can install it via `pip`:
+   If `UniParser` is not installed, you can install it via `pip`:  
    ```pip3 install uniparser```
 
    Then initialise `Analyzer()` and load grammar (i. e. `lexemes.txt` and `paradigms.txt` files which should be placed in the same folder):
