@@ -47,7 +47,7 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
          
 3. **Glossing tool.** It is based on `UniParser`. The glossing tool is a function which returns a glossed version for a given text. The output consists of line with morphological segmentation and line with morphological annotation according to glossing rules developed by research group "Grammar of Neo-Aramaic languages" (HSE). Currently the most of stems are glossed as "STEM" but later they will be replaced with English translations. 
   
-   How to use:
+   How to use:  
    Function takes `.txt` file with text which needs to be annotated. For example of usage see `glossing_tool+evaluation_tool.ipynb`.
    
    **Evaluation tool for glossing tool** is also a function. It takes two obligatory arguments: `.txt` files of glossed text and gold glossed standard. Evaluation tool returns percentage of words with correct morphological segmentation and morphological annotation. For example of usage also see `glossing_tool+evaluation_tool.ipynb`.
