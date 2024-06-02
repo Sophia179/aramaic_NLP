@@ -50,7 +50,7 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
    How to use:  
    Function takes `.txt` file with text which needs to be annotated. For example of usage see `glossing_tool+evaluation_tool.ipynb`.
    
-   **Evaluation tool for glossing tool** is also a function. It takes two obligatory arguments: `.txt` files of glossed text and gold glossed standard. Evaluation tool returns percentage of words with correct morphological segmentation and morphological annotation. For example of usage also see `glossing_tool+evaluation_tool.ipynb`.
+   **Evaluation tool for glossing tool** is also a function. It takes two obligatory arguments: `.txt` files of glossed text and gold glossed standard. There is also one optional argument which enables to see which words were glossed and segmentated incorrectly. Evaluation tool returns percentage of words with correct morphological segmentation and morphological annotation. For example of usage also see `glossing_tool+evaluation_tool.ipynb`.
 
     
 5. **Modern Western Aramaic parallel annotated multimedia corpus.** Corpus of Maaloula dialect was created via `tsakorpus` platform. Currently it contains only texts in Maaloula dialect. It supports search on wordforms, lemmata, part-of-speech tags, grammatical characteristics (and their combinations). Each sentence is supplied with German translation and audiofile (all audiofiles were taken from MASC dataset). Subcorpora can also be selected based on metadata.  
