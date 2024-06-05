@@ -55,7 +55,7 @@ Modern Western Aramaic is an endangered Semitic language spoken in several villa
     
 5. **Modern Western Aramaic parallel annotated multimedia corpus.** Corpus of Maaloula dialect was created via `tsakorpus` platform. Currently it contains only texts in Maaloula dialect. It supports search on wordforms, lemmata, part-of-speech tags, grammatical characteristics (and their combinations). Each sentence is supplied with German translation and audiofile (all audiofiles were taken from MASC dataset). Subcorpora can also be selected based on metadata.  
 
-   Corpus is available per link: (here will be a link soon)  
+   Corpus is available per link: https://corpora.iling-ran.ru/aramaic_corpus
    GitHub repository for corpus: https://github.com/Sophia179/tsakorpus_aramaic  
    For how `.json` files were prepared and for plots with some statistics see `corpus_behind_the_scenes+plots.ipynb`
 
